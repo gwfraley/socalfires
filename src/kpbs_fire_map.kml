@@ -161,6 +161,20 @@
 			<color>ff000000</color>
 		</LineStyle>
 	</Style>
+	<Style id="sn_ltblu-blank">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
 	<Style id="default00">
 		<IconStyle>
 			<Icon>
@@ -335,6 +349,16 @@
 			<styleUrl>#default_copy53</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_ltblu-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-blank</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="style129">
 		<LineStyle>
 			<color>400000ff</color>
@@ -376,6 +400,23 @@
 		<LineStyle>
 			<color>66000000</color>
 		</LineStyle>
+	</Style>
+	<Style id="sh_ltblu-blank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ltblu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
 	</Style>
 	<Style id="style96">
 		<LineStyle>
@@ -1611,8 +1652,26 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<Placemark>
+		<name>3358 52nd St, San Diego, CA 92105</name>
+		<open>1</open>
+		<address>3358 52nd St, San Diego, CA 92105</address>
+		<LookAt>
+			<longitude>-117.080485</longitude>
+			<latitude>32.742627</latitude>
+			<altitude>0</altitude>
+			<range>1000</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+		</LookAt>
+		<styleUrl>#msn_ltblu-blank</styleUrl>
+		<Point>
+			<coordinates>-117.080485,32.742627,0</coordinates>
+		</Point>
+	</Placemark>
 	<Folder>
 		<name>Updates</name>
+		<open>1</open>
 		<Placemark>
 			<name>KPBS Broadcast Tower</name>
 			<description><![CDATA[We are now back on the air on KPBS 89.5 FM<br><br>--<br><br>Get our radio broadcast through San Diego's CityTV (Cox South ch 24/Cox North ch 19/Time Warner ch 22), and County Television Network. <br><br>--<br><br>KPBS has lost TV and radio connection with the Mt. San Miguel broadcast towers and is now broadcasting on FM 94.9.  All cable customers will not be affected.]]></description>
