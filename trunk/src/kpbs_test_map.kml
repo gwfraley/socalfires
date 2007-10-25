@@ -1,0 +1,2541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Kpbs Test Map</name>
+	<open>1</open>
+	<Style id="style111">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style107">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style21">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style50">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style46">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style124">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style73">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style42">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style52">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style23">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style83">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style108">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style53">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy40">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.white.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style117">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style27">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style3">
+		<LineStyle>
+			<color>73ff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="default_copy9">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon15.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>66000000</color>
+		</LineStyle>
+	</Style>
+	<Style id="default_copy00">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon15.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>400000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style76">
+		<LineStyle>
+			<color>400000ff</color>
+			<width>20</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>730000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style113">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style69">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy20">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.white.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style47">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style118">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style75">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style22">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style105">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style41">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style82">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style106">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style122">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy100">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/evacuation-area.gif</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>997fffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>997fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="default_copy6">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon15.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>66000000</color>
+		</LineStyle>
+	</Style>
+	<Style id="style10">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy020">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon15.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>400000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style25">
+		<LineStyle>
+			<color>66ffffff</color>
+			<width>15</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8066ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style56">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy4">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style91">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style123">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style71">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style35">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style58">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style20">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style6">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style96">
+		<LineStyle>
+			<color>400000ff</color>
+			<width>20</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>730000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="default_copy0">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default_copy2">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style89">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style95">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style15">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style62">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+	</Style>
+	<Style id="style104">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style48">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style54">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style45">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+	</Style>
+	<Style id="default_copy160">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>997fffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>997fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style99">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy5">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.white.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style28">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style24">
+		<LineStyle>
+			<color>8099ffff</color>
+			<width>10</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6633ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style1">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="default_copy1">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style57">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/campfire.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style77">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style13">
+		<LineStyle>
+			<color>73ff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="default_copy10">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/evacuation-area.gif</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>997fffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>997fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style97">
+		<LineStyle>
+			<color>400000ff</color>
+			<width>20</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>730000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style29">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+	</Style>
+	<Style id="style36">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style70">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style74">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy101">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/evacuation-area.gif</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>997fffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>997fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style101">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style80">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style19">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style93">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style103">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style11">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="style60">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style120">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style109">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style94">
+		<LineStyle>
+			<color>8099ffff</color>
+			<width>10</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6633ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style7">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style79">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/logo3.gif</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon15.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>400000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style32">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style86">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style84">
+		<LineStyle>
+			<color>73ff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style102">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style128">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style59">
+		<LineStyle>
+			<color>73ff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style4">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy16">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>997fffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>997fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style67">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy13">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>997fffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>997fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style44">
+		<LineStyle>
+			<color>400000ff</color>
+			<width>15</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>730000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style112">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy01">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.white.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style64">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style92">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style88">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style26">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style40">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style68">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy11">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>997fffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>997fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style49">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style72">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style43">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy8">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon15.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>99ff5500</color>
+		</LineStyle>
+	</Style>
+	<Style id="default1">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon35.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style78">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style65">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style127">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/smoke2.gif</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style5">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+	</Style>
+	<Style id="default_copy60">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon15.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>400000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="default_copy14">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>997fffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>997fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style61">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style55">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default0">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal3/icon43.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style51">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style39">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rail.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style81">
+		<LineStyle>
+			<color>406666ff</color>
+			<width>15</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7399ccff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style66">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style87">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+	</Style>
+	<Style id="style16">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style63">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy50">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="default00">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy02">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon15.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style14">
+		<LineStyle>
+			<color>bf0000ff</color>
+			<width>20</width>
+		</LineStyle>
+	</Style>
+	<Style id="style17">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style129">
+		<LineStyle>
+			<color>400000ff</color>
+			<width>15</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>990000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="default_copy30">
+		<IconStyle>
+			<Icon>
+				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style38">
+		<LineStyle>
+			<color>40000000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8c0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style119">
+		<LineStyle>
+			<color>73ff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style37">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style85">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style9">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style12">
+		<LineStyle>
+			<color>660000ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="style30">
+		<LineStyle>
+			<color>400000ff</color>
+			<width>15</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style33">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style18">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style100">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style98">
+		<LineStyle>
+			<color>400000ff</color>
+			<width>15</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>990000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style126">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy12">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>997fffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>997fffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style114">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style121">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy7">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.white.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style110">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style31">
+		<LineStyle>
+			<color>73ff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="style131">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style130">
+		<LineStyle>
+			<color>8099ffff</color>
+			<width>10</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6633ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style125">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style8">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style90">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style116">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style115">
+		<LineStyle>
+			<color>73ff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="default_copy3">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style34">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Updates</name>
+		<Placemark>
+			<name>KPBS Broadcast Tower</name>
+			<description><![CDATA[We are now back on the air on KPBS 89.5 FM<br><br>--<br><br>Get our radio broadcast through San Diego's CityTV (Cox South ch 24/Cox North ch 19/Time Warner ch 22), and County Television Network. <br><br>--<br><br>KPBS has lost TV and radio connection with the Mt. San Miguel broadcast towers and is now broadcasting on FM 94.9.  All cable customers will not be affected.]]></description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-116.937103,32.696167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Smoke Advisory</name>
+			<description><![CDATA[The Air Pollution Control District has issued a Precautionary Smoke Advisory for the San Diego Air Basin, which encompasses San Diego County. <a href="http://www.sdapcd.org/air/smoke/smoke1.html">Learn more about the dangers of smoke »</a>]]></description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.394409,32.986778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sera Mesa Housing Return Home</name>
+			<description>Camp Pendleton officials say the San Luis Rey fire is no longer a threat to the southeastern region of Camp Pendleton, and Serra Mesa residents can return to their homes.</description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.332611,33.274288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Pulgas Housing Area</name>
+			<description>Las Pulgas (43 Area) is relocating to Margarita (33Area).</description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.391663,33.32880800000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Flores Housing 41 Area</name>
+			<description>Las Flores (41 Area) is relocating to Del Mar (21 Area).</description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.432861,33.29380400000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Onofre Housing</name>
+			<description><![CDATA[Camp Pendleton officials have announced the Horno Fire is no longer a threat to San Onofre Housing, and residents can return<br>to their homes.]]></description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.581696,33.39074700000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tierra Bonita &amp; Twin Peaks safe for return</name>
+			<description><![CDATA[Tierra Bonita and Twin Peaks area are safe for repopulation.<br>10/24 2:37 p.m.]]></description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.028252,32.9767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Marcos: Safe for return</name>
+			<description>The City of San Marcos is safe for repopulation. 10/24 2:16 p.m.</description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.159576,33.161983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>West Rancho Bernardo safe for return</name>
+			<description><![CDATA[The following areas are safe for repopulation: West Rancho Bernardo: N of 56, W of 15, E of Rancho Santa Fe Farms, South of Rancho Bernardo Rd.<br>10/24 2:06 p.m.]]></description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.082329,33.028526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rancho Penasquitos: Some areas safe for return</name>
+			<description>Partial repopulation in Rancho Penasquitos: Area north of SR-56, south of Rancho Bernardo Rd, west of I-15 and east Rancho Santa Fe Farms. 10/24 2:01 p.m.</description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.115631,32.965179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Encinitas: Some areas safe for return</name>
+			<description>The area of Olivenhain is safe for return. Officials will be checking IDs to make sure you live in the area. 10/24 11:00 a.m.</description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.290382,33.053566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rancho Bernardo: Some areas safe for return</name>
+			<description>NE Rancho Bernardo is safe for return if you live south of Paseo de Verano North, east of Pomerado, north of Espola Rd and west of Poway. 10-24 10:28 a.m.</description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.083359,33.043491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Poway: Some areas safe for return</name>
+			<description><![CDATA[Authorities discovered two bodies near Poway. Medical examiners are trying to establish their identities.<br>10/25, 9:07 a.m.<br><br>-----<br><br>High Valley Road and Crocker road are the only regions of the city of Poway still under mandatory evacuation.<br><br>A map of the reopened area and a list of the reopened addresses are available at poway.org. 10/24 10:36 a.m. <br>]]></description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.04216,32.972958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Scripps Ranch: Some areas safe for return</name>
+			<description><![CDATA[Some areas of Scripps Ranch are now safe to return to: south of Dealer Canyon Road, west of Sycamore, east of I-15 and north of MCAS Miramar. 10/23 12:36 p.m.<br>]]></description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.096405,32.952217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Del Mar Heights: Some areas safe for return</name>
+			<description><![CDATA[Residents will be allowed to move back into Del Mar Heights south of Via de la Valle, west of I-5 and north of Torrey Pines State Beach. <br>10/23 12:52 p.m.]]></description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.256561,32.945732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Escondido: Some areas safe for return</name>
+			<description><![CDATA[Escondido has reopened two of its evacuated neighborhoods: Sonata and Sierra Linda, both east of Interstate 15 and south of Bear Valley Parkway.<br><br>Be prepared to show ID. 10/24 2:44 p.m.<br><br>Escondido is under a mandatory evacuation in the Bear Valley / 78 area.<br><br>For information about Escondido evacuation updates go to www.escondido.org or call 760-839-6262<br><br>10/24 1:47 p.m.]]></description>
+			<styleUrl>#default0</styleUrl>
+			<Point>
+				<coordinates>-117.050056,33.108509,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Fires</name>
+		<open>1</open>
+		<Folder>
+			<name>Perimeters</name>
+			<Placemark>
+				<name>Witch Creek Fire</name>
+				<description><![CDATA[Poomacha and Witch fires have not joined together as feared earlier (10/25 7:15AM).
+<br>
+<br>Collectively the fires have burned 196,420 acres.
+<br>This fire is 10 percent contained. 645 homes, 30 commercial properties, and 50 outbuildings have been destroyed. 250 homes, 10 commercial properties and 50 outbuildings have been damaged. 5,000 residences, 1,500 commercial properties, and 300 outbuildings are currently threatened. 12 firefighters have been injured on this fire. The estimated cost of this fire to date is $5 million. Witch Fire Information Line (619) 590-3160.]]></description>
+				<styleUrl>#default</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-116.70639,33.13496,0 -116.69677,33.118279,0 -116.68029,33.106491,0 -116.673767,33.099018,0 -116.660378,33.095558,0 -116.652138,33.088661,0 -116.651802,33.076,0 -116.654892,33.06881,0 -116.651802,33.05759,0 -116.644928,33.0504,0 -116.639091,33.023048,0 -116.628792,33.0173,0 -116.628448,33.004051,0 -116.648712,32.993969,0 -116.639778,32.9767,0 -116.636002,32.9669,0 -116.635658,32.955379,0 -116.643898,32.950481,0 -116.655571,32.95192,0 -116.656258,32.96143,0 -116.665871,32.974098,0 -116.691971,32.969212,0 -116.698151,32.946159,0 -116.714973,32.943859,0 -116.725609,32.935501,0 -116.745178,32.938091,0 -116.746552,32.921669,0 -116.749474,32.908409,0 -116.764923,32.898899,0 -116.775047,32.905529,0 -116.788963,32.899479,0 -116.794792,32.895729,0 -116.803207,32.890545,0 -116.81385,32.894291,0 -116.81797,32.882759,0 -116.82827,32.883045,0 -116.828613,32.891121,0 -116.816254,32.907261,0 -116.818138,32.922821,0 -116.838051,32.92239,0 -116.856422,32.925701,0 -116.862602,32.930309,0 -116.860367,32.94025,0 -116.857964,32.946739,0 -116.840279,32.955669,0 -116.827057,32.960999,0 -116.82003,32.963589,0 -116.80732,32.952789,0 -116.778831,32.962582,0 -116.763382,32.985619,0 -116.766808,33.002319,0 -116.771957,33.01643,0 -116.788101,33.030251,0 -116.805946,33.025639,0 -116.823463,33.01442,0 -116.845772,33.003189,0 -116.855392,33.002041,0 -116.861572,33.0173,0 -116.863281,33.030251,0 -116.842339,33.035721,0 -116.840279,33.04924,0 -116.851608,33.05529,0 -116.862602,33.05500000000001,0 -116.90448,33.045502,0 -116.925774,33.04665,0 -116.93676,33.041191,0 -116.945679,33.020168,0 -116.960793,33.000019,0 -116.986191,32.983898,0 -116.992027,32.983898,0 -116.996147,32.9767,0 -117.001991,32.968048,0 -117.015717,32.965752,0 -117.02327,32.971512,0 -117.024986,32.983318,0 -117.033569,32.995991,0 -117.040443,33.009521,0 -117.04216,33.032551,0 -117.048683,33.042049,0 -117.05864,33.043781,0 -117.073051,33.04924,0 -117.088158,33.058449,0 -117.092278,33.067081,0 -117.102921,33.067951,0 -117.109787,33.051262,0 -117.12661,33.04406,0 -117.148239,33.00808,0 -117.160263,32.995411,0 -117.173988,32.998291,0 -117.183952,32.997719,0 -117.190468,33.005779,0 -117.183952,33.017578,0 -117.187721,33.0242,0 -117.195961,33.034851,0 -117.196648,33.045219,0 -117.195961,33.059319,0 -117.187721,33.067081,0 -117.178108,33.06881,0 -117.16507,33.069672,0 -117.156143,33.055859,0 -117.144814,33.05299,0 -117.142754,33.061909,0 -117.14447,33.077148,0 -117.144119,33.086361,0 -117.141724,33.095852,0 -117.14859,33.097,0 -117.168503,33.09988,0 -117.174683,33.105339,0 -117.175713,33.118279,0 -117.16713,33.128632,0 -117.15477,33.128922,0 -117.143089,33.122601,0 -117.13726,33.103619,0 -117.127991,33.09729,0 -117.097092,33.097858,0 -117.077858,33.084061,0 -117.063782,33.074848,0 -117.046623,33.08147,0 -117.041473,33.10763900000001,0 -117.04628,33.124031,0 -117.035294,33.138699,0 -117.022926,33.154221,0 -117.014,33.1614,0 -117.007141,33.16484800000001,0 -116.998207,33.161121,0 -116.986191,33.170029,0 -116.969032,33.169159,0 -116.955978,33.17836,0 -116.93676,33.170601,0 -116.917526,33.175491,0 -116.911346,33.18784,0 -116.896927,33.19072,0 -116.878052,33.198471,0 -116.872208,33.213982,0 -116.882851,33.21944,0 -116.901398,33.230358,0 -116.908951,33.228348,0 -116.913406,33.218288,0 -116.917191,33.212841,0 -116.923027,33.212265,0 -116.9347,33.211693,0 -116.945686,33.212841,0 -116.955299,33.214561,0 -116.967316,33.216,0 -116.980362,33.220596,0 -116.985847,33.22921,0 -116.985847,33.245289,0 -116.978302,33.26022,0 -116.965591,33.257351,0 -116.961472,33.24298900000001,0 -116.953239,33.237251,0 -116.946373,33.233807,0 -116.93779,33.22921,0 -116.926804,33.230934,0 -116.93161,33.244144,0 -116.9244,33.25132,0 -116.912376,33.262508,0 -116.89933,33.269402,0 -116.89006,33.280312,0 -116.903107,33.284328,0 -116.916496,33.287201,0 -116.931953,33.29007,0 -116.945,33.306141,0 -116.961823,33.313881,0 -116.970062,33.321918,0 -116.977615,33.32766,0 -116.985855,33.332249,0 -116.998901,33.337128,0 -117.004395,33.350319,0 -117.003365,33.364658,0 -116.997177,33.371819,0 -116.991692,33.37669,0 -116.983788,33.389019,0 -116.972801,33.395039,0 -116.963531,33.39447,0 -116.94706,33.387878,0 -116.940529,33.37096,0 -116.927139,33.362068,0 -116.912376,33.356049,0 -116.893837,33.34573,0 -116.889717,33.3354,0 -116.883202,33.32766,0 -116.867752,33.32135,0 -116.857109,33.315037,0 -116.844406,33.315613,0 -116.83445,33.311592,0 -116.836159,33.298962,0 -116.841309,33.273708,0 -116.850922,33.262508,0 -116.854698,33.244431,0 -116.857109,33.233521,0 -116.853333,33.230358,0 -116.852303,33.227489,0 -116.851616,33.228348,0 -116.83651,33.234669,0 -116.82003,33.23006800000001,0 -116.808006,33.22921,0 -116.79805,33.212261,0 -116.795311,33.199909,0 -116.78878,33.199051,0 -116.780891,33.19445,0 -116.772987,33.182098,0 -116.762001,33.177212,0 -116.749641,33.181808,0 -116.737282,33.175491,0 -116.727333,33.166,0 -116.724243,33.155369,0 -116.713943,33.14962,0 -116.70639,33.13496,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Rice Fire</name>
+				<description>Estimated fire perimeter -- 11:00 p.m. Oct. 23</description>
+				<styleUrl>#default</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-117.186348,33.33569,0 -117.193901,33.33884000000001,0 -117.199402,33.342571,0 -117.204552,33.34515,0 -117.209702,33.349171,0 -117.213821,33.354622,0 -117.2145,33.364651,0 -117.215881,33.371529,0 -117.220001,33.377838,0 -117.22274,33.3853,0 -117.229271,33.390739,0 -117.240601,33.39819,0 -117.239906,33.412521,0 -117.235794,33.419838,0 -117.231506,33.422131,0 -117.228241,33.424561,0 -117.21553,33.429138,0 -117.207474,33.428864,0 -117.194595,33.43359,0 -117.187904,33.434448,0 -117.181206,33.436028,0 -117.167473,33.43458900000001,0 -117.162659,33.424271,0 -117.15477,33.419689,0 -117.147209,33.420551,0 -117.13726,33.410809,0 -117.135201,33.396191,0 -117.137604,33.38673,0 -117.129356,33.37899,0 -117.114937,33.374401,0 -117.10807,33.362068,0 -117.111847,33.34687,0 -117.12867,33.341141,0 -117.143089,33.342571,0 -117.160599,33.335972,0 -117.173653,33.333969,0 -117.186348,33.33569,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Witch Creek Fire</name>
+				<description><![CDATA[<span>Witch Fire has burned 190,170 acres. <br></span><ul><li><span>It is 20 percent contained. <br></span></li></li><li><span>1,061 residences have been destroyed. <br></span></li></li><li><span>Firefighters have made gains as weather change has helped.</span></li></li></ul><span>10/25, 8:40 a.m.<br><br>-----<br></span>
+<ul>
+<li><span>Poomacha and Witch fires have not joined together as feared earlier.</span></li></li>
+<li>The Witch Fire is still 196,420 acres, but now 20% contained.</li></li>
+<li>Suppression costs are at $5 million.</li></li>
+<li>There have been 12 injuries to firefighters. There are 2,331 firefighters assigned to this fire.</li></li>
+<li>The fire will continue to move east threatening the communities of Julian and Pine Hills. </li></li>
+<li>Fire has potential to move north and join with the Poomacha Fire. Fire spread to west and southwest is still a potential.</li></li>
+<li>645 homes, 30 commercial properties, and 50 outbuildings have been destroyed. 250 homes, 10 commercial properties and 50 outbuildings have been damaged.</li></li>
+<li>Witch Fire Information Line (619) 590-3160.</li></li></ul>10/24 7:55 p.m.<br><br>]]></description>
+				<styleUrl>#default</styleUrl>
+				<Point>
+					<coordinates>-116.901398,33.065075,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rice Canyon Fire</name>
+				<description><![CDATA[<span>Rice Fire has burned 9,500 acres. <br></span><ul><li><span>It is 20 percent contained. <br></span></li></li><li><span>It is burning north to Riverside. <br></span></li></li><li><span>There are 1,000 firefighters on the line.</span></li></li></ul><span>10/25, 8:45 a.m.<br><br>-----<br></span><br><span></span><ul type="disc">
+<li>The Rice Fire is expected to be fully contained by Oct. 28.</li></li>
+<li>The Rice Fire is 9,000 acres and 20% contained. </li></li>
+<li>1 firefighter has been injured. 1,095 firefighters are assigned to this fire.</li></li>
+<li>The estimated cost of this fire is $1.2 million. Rice Fire Information Line (619) 590-3160.</li></li>
+<li>Over 400 structures in De Luz and Northern Fallbrook area threatened.</li></li>
+<li>The Rice Canyon Fire in Rice Canyon, North San Diego County has crossed I-15 and Hwy 395.</li></li>
+<li>North County Fire District reports burn damage includes the Valley Oaks Trailer Park and Pala Mesa Village condos. <br></li></li></ul>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>]]></description>
+				<styleUrl>#default</styleUrl>
+				<Point>
+					<coordinates>-117.15683,33.363224,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harris Fire</name>
+				<description>Estimated fire perimeter</description>
+				<styleUrl>#default</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-116.587082,32.57893,0 -116.586227,32.572857,0 -116.579185,32.573002,0 -116.574722,32.571121,0 -116.567513,32.571121,0 -116.560654,32.571121,0 -116.553093,32.574299,0 -116.547943,32.579788,0 -116.550346,32.584572,0 -116.552231,32.58934,0 -116.556534,32.596569,0 -116.562531,32.605251,0 -116.562714,32.620869,0 -116.572662,32.62867,0 -116.596352,32.63113,0 -116.609573,32.632431,0 -116.610771,32.639801,0 -116.613861,32.644428,0 -116.614723,32.650639,0 -116.613693,32.661919,0 -116.628113,32.677811,0 -116.630943,32.681862,0 -116.638153,32.681061,0 -116.655571,32.681999,0 -116.658577,32.686699,0 -116.66304,32.687569,0 -116.668282,32.689949,0 -116.669739,32.687279,0 -116.666222,32.682152,0 -116.669823,32.67807,0 -116.673264,32.680851,0 -116.677719,32.687351,0 -116.675659,32.694859,0 -116.688187,32.70295,0 -116.698662,32.69891000000001,0 -116.706039,32.700062,0 -116.713249,32.702808,0 -116.719948,32.706848,0 -116.730423,32.7122,0 -116.742607,32.714218,0 -116.759087,32.71682,0 -116.775742,32.72028,0 -116.798401,32.725479,0 -116.806808,32.724621,0 -116.816078,32.724178,0 -116.830673,32.728371,0 -116.844742,32.72707,0 -116.85247,32.718689,0 -116.855217,32.71104,0 -116.860878,32.703529,0 -116.875992,32.707569,0 -116.890923,32.707142,0 -116.900192,32.714802,0 -116.907227,32.716381,0 -116.922508,32.721439,0 -116.93882,32.7262,0 -116.94706,32.725769,0 -116.951523,32.724041,0 -116.959412,32.72303,0 -116.96199,32.721729,0 -116.961472,32.717831,0 -116.962334,32.716381,0 -116.961304,32.711761,0 -116.960793,32.71032,0 -116.961647,32.708302,0 -116.961128,32.707142,0 -116.96096,32.703239,0 -116.969887,32.701511,0 -116.978981,32.698978,0 -116.979927,32.697029,0 -116.980103,32.69558,0 -116.97924,32.698399,0 -116.980789,32.694431,0 -116.979584,32.698261,0 -116.982758,32.690239,0 -116.972549,32.68504,0 -116.971947,32.681862,0 -116.972801,32.679111,0 -116.972633,32.6768,0 -116.971771,32.675652,0 -116.97229,32.675652,0 -116.969887,32.673771,0 -116.975891,32.66943,0 -116.966797,32.673191,0 -116.966972,32.672901,0 -116.972458,32.666538,0 -116.968002,32.666538,0 -116.960098,32.66423,0 -116.952629,32.663071,0 -116.943283,32.657291,0 -116.9347,32.65556,0 -116.927834,32.655128,0 -116.923019,32.667122,0 -116.91787,32.668571,0 -116.90757,32.674061,0 -116.90345,32.677521,0 -116.90036,32.674919,0 -116.901047,32.667992,0 -116.905861,32.661919,0 -116.913071,32.659611,0 -116.916496,32.65469,0 -116.919502,32.644569,0 -116.911346,32.63879,0 -116.903801,32.630989,0 -116.901047,32.618259,0 -116.900017,32.6012,0 -116.89418,32.592812,0 -116.883537,32.585869,0 -116.869812,32.59310200000001,0 -116.866722,32.604092,0 -116.858131,32.608139,0 -116.854698,32.597729,0 -116.847832,32.59310200000001,0 -116.839249,32.58934,0 -116.833763,32.593971,0 -116.82827,32.60033,0 -116.825523,32.609879,0 -116.828949,32.618839,0 -116.821404,32.62289,0 -116.822433,32.641972,0 -116.808701,32.63792000000001,0 -116.801491,32.63069900000001,0 -116.792557,32.627232,0 -116.795311,32.61161,0 -116.79187,32.603222,0 -116.778481,32.597149,0 -116.778481,32.60004,0 -116.768532,32.593391,0 -116.773331,32.587608,0 -116.787407,32.59310200000001,0 -116.797707,32.595699,0 -116.811096,32.592522,0 -116.819679,32.57719,0 -116.814362,32.555199,0 -116.824661,32.54797,0 -116.832733,32.541599,0 -116.83754,32.537552,0 -116.83754,32.531609,0 -116.83651,32.526981,0 -116.832558,32.51757,0 -116.822258,32.51424,0 -116.80938,32.511929,0 -116.797539,32.51569,0 -116.790161,32.522209,0 -116.79393,32.537552,0 -116.79599,32.5471,0 -116.763031,32.553181,0 -116.749992,32.554771,0 -116.736427,32.554771,0 -116.740196,32.543339,0 -116.740723,32.534939,0 -116.734711,32.52177,0 -116.73008,32.519173,0 -116.723213,32.517723,0 -116.730766,32.512657,0 -116.733513,32.505707,0 -116.724075,32.502956,0 -116.71257,32.506287,0 -116.706223,32.513237,0 -116.699867,32.508457,0 -116.693687,32.508167,0 -116.68837,32.511353,0 -116.682014,32.515408,0 -116.680298,32.524525,0 -116.676521,32.52626,0 -116.672234,32.537109,0 -116.67308,32.555199,0 -116.663467,32.572559,0 -116.587082,32.57893,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Rosa Fire</name>
+				<description>Estimated Fire Perimeter - This fire has burned 411 acres and is 100 percent contained. Two outbuildings were destroyed by this fire. Evacuations have been lifted and residents are allowed to return to their homes. All roads are open. 223 firefighters are assigned to this incident under CAL FIRE command. The cause of this fire is arson. Rosa Fire Information Line (951) 940-6985.</description>
+				<styleUrl>#default</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-117.161629,33.485001,0 -117.159569,33.473831,0 -117.165237,33.468681,0 -117.174507,33.461521,0 -117.185493,33.45507,0 -117.193733,33.466389,0 -117.199226,33.468681,0 -117.210213,33.46553,0 -117.213127,33.475552,0 -117.199913,33.474121,0 -117.194931,33.47784,0 -117.19648,33.485001,0 -117.189613,33.490582,0 -117.181198,33.483421,0 -117.166611,33.491871,0 -117.161629,33.485001,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Wilcox Fire</name>
+				<description>This 200 acre fire on Camp Pendleton is now 100% contained. Wilcox Fire Information Line (866) 430-2764.</description>
+				<styleUrl>#default</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-117.380676,33.303272,0 -117.386513,33.295525,0 -117.3769,33.289211,0 -117.365227,33.292942,0 -117.359734,33.296959,0 -117.36454,33.301266,0 -117.37175,33.304707,0 -117.380676,33.303272,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Coronado Hills Fire: Contained</name>
+				<description><![CDATA[The Roca fire in East Temecula and the Coronado Hills Fire (South of Cal State San Marcos) have been 100 percent contained.<br>10-23, 3:35 p.m.]]></description>
+				<styleUrl>#default</styleUrl>
+				<Point>
+					<coordinates>-117.145844,33.124901,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Horno Fire</name>
+				<description><![CDATA[Estimated burn area.<br><br>The Horno fire has scorched about 6,000 acres and is 10 percent<br>contained.]]></description>
+				<styleUrl>#default</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-117.560921,33.382435,0 -117.560921,33.378418,0 -117.53997,33.365799,0 -117.522118,33.35519,0 -117.508392,33.344872,0 -117.503242,33.340279,0 -117.497581,33.336266,0 -117.494659,33.333828,0 -117.491737,33.331245,0 -117.48539,33.326656,0 -117.479897,33.323929,0 -117.475266,33.315323,0 -117.465652,33.313171,0 -117.456039,33.315323,0 -117.448997,33.321636,0 -117.451569,33.328953,0 -117.451569,33.336552,0 -117.442474,33.339851,0 -117.441788,33.349457,0 -117.434921,33.351322,0 -117.427711,33.359489,0 -117.417061,33.367229,0 -117.406593,33.366665,0 -117.393028,33.370098,0 -117.400932,33.379559,0 -117.408142,33.379135,0 -117.415688,33.37698,0 -117.424454,33.381718,0 -117.436813,33.384583,0 -117.448654,33.385014,0 -117.456207,33.384583,0 -117.465477,33.380856,0 -117.477669,33.382721,0 -117.484879,33.384869,0 -117.494492,33.385445,0 -117.514572,33.389027,0 -117.528641,33.389599,0 -117.538773,33.385872,0 -117.545815,33.385872,0 -117.548737,33.385445,0 -117.551651,33.3853,0 -117.555946,33.384869,0 -117.560921,33.382435,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Horno Fire Burn Area</name>
+				<styleUrl>#default</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-117.540489,33.37455,0 -117.544098,33.371395,0 -117.547531,33.371826,0 -117.531738,33.378132,0 -117.524185,33.372971,0 -117.535172,33.364368,0 -117.540154,33.366665,0 -117.537575,33.367237,0 -117.535339,33.371109,0 -117.536545,33.372398,0 -117.537231,33.37125,0 -117.544441,33.372543,0 -117.540489,33.37455,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Previous Burned Area</name>
+				<description><![CDATA[NOT A CURRENT ACTIVE FIRE!!<br><br>Perimeter of burned are updated 10/24/07  20:00hrs]]></description>
+				<styleUrl>#default</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-117.024651,32.564754,0 -117.024307,32.559547,0 -117.027054,32.554337,0 -117.028427,32.550575,0 -117.024994,32.543339,0 -117.015038,32.545944,0 -117.007484,32.552601,0 -117.010574,32.565624,0 -117.019157,32.56707,0 -117.024651,32.564754,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Fire (no name)</name>
+				<description><![CDATA[The five-acre fire near the Commissary (the Base's largest grocery store) in<br>the 21 Area is also 100 percent contained.]]></description>
+				<styleUrl>#default</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-117.397499,33.243568,0 -117.400932,33.24041,0 -117.405396,33.239262,0 -117.397491,33.232651,0 -117.387543,33.2272,0 -117.382736,33.236675,0 -117.386513,33.240124,0 -117.390289,33.241844,0 -117.397499,33.243568,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Locations</name>
+			<Placemark>
+				<name>Fire Report</name>
+				<description>Fire has been reported in Fairbanks Ranch area.</description>
+				<styleUrl>#default_copy2</styleUrl>
+				<Point>
+					<coordinates>-117.191162,33.023632,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harris Fire</name>
+				<description><![CDATA[<span>Harris Fire at 84,000 acres burned. <br></span><ul><li><span>The major threat now is in Lyons Valley. <br></span></li></li><li><span>155 structures destroyed.</span></li></li></ul><span>10/25, 8:37 a.m.<br><br>-----<br></span><br>Harris Fire reported at 75,000 acres and 10% containment.<br>
+<ul type="disc">
+<li><font size="2"><span style="font-size:10pt;color:black;font-family:Arial">Suppression costs are at $3.4 million.&nbsp; </span></font></li></li>
+<li><font size="2"><span style="font-size:10pt;color:black;font-family:Arial">155 homes, 2 commercial properties and 17 outbuildings have been destroyed in this fire and 250 additional homes have been damaged.</span></font></li></li>
+<li><font size="2"><span style="font-size:10pt;color:black;font-family:Arial">There have been 25 civilian injuries and one death as well as seven firefighter injuries on this fire. 1,341 Firefighters assigned. </span></font></li></li>
+<li><font size="2"><span style="font-size:10pt;color:navy;font-family:Arial">Lyons</span><span style="font-size:10pt;color:navy;font-family:Arial"> Peak</span><span style="font-size:10pt;color:black;font-family:Arial"> was burned and the fire jumped perimeter control lines in the area</span></font></li></li>
+<li><font size="2"><span style="font-size:10pt">Full containment is expected October 31st.</span></font></li></li>
+<li><font size="2"><span style="font-size:10pt">Harris Fire Information Line (619) 590-3160.</span></font></li></li></ul>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>
+<p></p></p><p></p></p>]]></description>
+				<styleUrl>#default_copy2</styleUrl>
+				<Point>
+					<coordinates>-116.732483,32.619713,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Poomacha Fire</name>
+				<description><![CDATA[<span>Poomacha  fire has burned 35,000 acres. <br></span><ul><li><span>It is 10 percent contained. <br></span></li></li><li><span>700 personnel have been assigned to fire. <br></span></li></li><li><span>It has not merged with Witch Fire, but&nbsp; it is close.</span></li></li></ul><font face="arial">10/25, 8:42 a.m.<br>-----<br><br>The Poomacha fire, which started on Palomar Mountain, has burned 35,000<br>acres and is&nbsp;10 percent contained. There have been 12 firefighters injured. 719 firefighters are currently assigned to this fire. The estimated cost of this fire to date is $750,000.&nbsp;</font>Poomacha fire is moving toward Palomar Mountain on the north side and the Cleveland National Forest on the east side.<br><br>The fire started October 23 as a structure fire on the Lajolla Indian Reservation. Poomacha Fire Information Line (619) 590-3160. <br>]]></description>
+				<styleUrl>#default_copy2</styleUrl>
+				<Point>
+					<coordinates>-116.906204,33.297249,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Horno Fire</name>
+				<description><![CDATA[Camp Pendelton fires are 40 to 45 percent contained. The danger is that there are two heads to the fire. No relocations in  the last 12 hours.<br>10/25, 8:35 a.m.<br><br>-----<br><br>Three fires are burning on the Camp Pendleton Marine Corps Base. Currently, Basilone Rd. has been closed from Deer Park to the Las Pulgas 43<br>Area Landfill entrance, which is approximately eight miles. The San Luis Rey Gate is closed to inbound and outbound traffic. Metrolink train service is shut down between Oceanside and San Clemente.<br><br>-Camp Pendleton information hotline: (866) 430-2764<br>-Camp Pendleton TV (KPEN): Channel 18]]></description>
+				<styleUrl>#default_copy2</styleUrl>
+				<Point>
+					<coordinates>-117.524185,33.357487,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>Evacuations</name>
+		<open>1</open>
+		<Folder>
+			<name>Perimeters</name>
+			<Placemark>
+				<name>Witch Fire and Poomacha Estimated Evacuation</name>
+				<description>10/23 - Estimated Evacuation Perimeter as of 11pm</description>
+				<styleUrl>#default_copy100</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-117.23098,33.023048,0 -117.22274,33.010391,0 -117.215881,33.010391,0 -117.209702,33.003479,0 -117.190468,32.998871,0 -117.159569,33.007801,0 -117.093651,33.01096,0 -117.045593,33.009232,0 -117.037689,32.994549,0 -117.030479,32.983608,0 -117.02739,32.97007,0 -116.982071,32.945301,0 -116.985847,32.92771900000001,0 -116.982422,32.908989,0 -116.987221,32.893131,0 -116.94397,32.894569,0 -116.926628,32.87915,0 -116.90448,32.875259,0 -116.892471,32.886791,0 -116.815559,32.895729,0 -116.766121,32.894001,0 -116.556702,32.999451,0 -116.549828,33.093262,0 -116.545021,33.1203,0 -116.586906,33.14962,0 -116.61026,33.122601,0 -116.617119,33.13065,0 -116.677551,33.150768,0 -116.718399,33.200481,0 -116.77951,33.262508,0 -116.740372,33.32048,0 -116.762001,33.369808,0 -116.825859,33.385578,0 -116.908257,33.432011,0 -116.982071,33.448631,0 -117.023956,33.442902,0 -116.994781,33.305279,0 -117.072021,33.238682,0 -117.14447,33.235809,0 -117.15477,33.19416,0 -117.146179,33.171181,0 -117.13073,33.162842,0 -117.12867,33.153069,0 -117.13176,33.124031,0 -117.154083,33.11771,0 -117.171928,33.116852,0 -117.189438,33.1157,0 -117.196655,33.111099,0 -117.204895,33.10649900000001,0 -117.202835,33.104771,0 -117.209015,33.09787,0 -117.226692,33.08564,0 -117.233208,33.049679,0 -117.23098,33.023048,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Harris Fire Evacuation Area</name>
+				<description><![CDATA[Estimated fire evacuation perimeter --<br><ul><li>Harris Fire has covered about 75,000 acres and is 10% contained. Full containment expected on the 28th and full control on Nov. 4th.</li></li></li></li><li>1,341 firefighters assigned and 7 injuries to firefighters.</li></li></li></li><li>Cost to date to fight the fires is $3,400,000.</li></li></li></li><li>155 homes destroyed, 250 homes damaged, 2 commercial properties and 17 outbuildings destroyed.</li></li></li></li><li><font face="arial">Shifting wind patterns prompted a 75,000-acre wildfire to focus its destructive energies in new directions today, authorities said. As onshore air currents replaced a protracted period of bone-dry Santa Ana winds, the Harris fire began moving to the northeast, toward Campo, Hauser Canyon, Jamul, Lake Morena and Lyons Valley, according to Cal Fire.</font></li></li></li></li></ul>]]></description>
+				<styleUrl>#default_copy101</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-116.551201,32.582691,0 -116.560127,32.764751,0 -116.669312,32.761871,0 -116.665871,32.75032,0 -116.713249,32.717682,0 -116.726303,32.71653,0 -116.738312,32.717972,0 -116.750328,32.718842,0 -116.762352,32.723171,0 -116.775391,32.726059,0 -116.788101,32.729809,0 -116.80629,32.72953,0 -116.819,32.731548,0 -116.851273,32.72953,0 -116.895897,32.741661,0 -116.93779,32.765331,0 -116.963188,32.760712,0 -116.977951,32.742229,0 -116.978981,32.73703,0 -116.976921,32.728951,0 -116.976242,32.718552,0 -116.983101,32.69717,0 -116.987907,32.675209,0 -116.976921,32.659031,0 -116.972458,32.641102,0 -116.93161,32.631851,0 -116.931091,32.625931,0 -116.934608,32.622601,0 -116.932808,32.610821,0 -116.932983,32.598888,0 -116.928169,32.586159,0 -116.91993,32.573429,0 -116.916496,32.564171,0 -116.913071,32.553749,0 -116.834793,32.56012,0 -116.746902,32.567638,0 -116.639954,32.576031,0 -116.551201,32.582691,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Harris Fire Evacuation Extension</name>
+				<styleUrl>#default_copy101</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-116.861572,32.845551,0 -116.832039,32.845551,0 -116.820374,32.82233,0 -116.801826,32.814968,0 -116.795647,32.80978,0 -116.785347,32.808048,0 -116.785347,32.802849,0 -116.799767,32.80228,0 -116.79908,32.77457,0 -116.788101,32.77457,0 -116.789467,32.761292,0 -116.847153,32.764179,0 -116.846458,32.75436,0 -116.779861,32.751469,0 -116.781227,32.73357,0 -116.837883,32.728085,0 -116.893158,32.739349,0 -116.896591,32.78669,0 -116.904831,32.788422,0 -116.914436,32.793041,0 -116.906891,32.798809,0 -116.89727,32.797081,0 -116.89933,32.805161,0 -116.913071,32.805161,0 -116.91375,32.812092,0 -116.90551,32.82074000000001,0 -116.88903,32.82074000000001,0 -116.886292,32.835171,0 -116.864998,32.834019,0 -116.861572,32.845551,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Area</name>
+				<description><![CDATA[Estimated Perimeter as of 10/23 11:00pm Fallbrook Evacuations<br><br>10/24 1:20am  The Rice Canyon fire is 10% contained, 206 homes have burned and 1500 more are threatened.]]></description>
+				<styleUrl>#default_copy101</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+-117.001732,33.28727,0 -117.072197,33.23933,0 -117.093567,33.239109,0 -117.12957,33.238289,0 -117.140694,33.240189,0 -117.153313,33.24873,0 -117.149101,33.307861,0 -117.168839,33.325359,0 -117.178802,33.31934,0 -117.186691,33.317612,0 -117.206261,33.313019,0 -117.226517,33.296959,0 -117.223686,33.290138,0 -117.223862,33.28698,0 -117.2248,33.281528,0 -117.231239,33.25993,0 -117.244537,33.25634,0 -117.251747,33.256271,0 -117.299133,33.24213,0 -117.309952,33.257778,0 -117.291748,33.276581,0 -117.291061,33.279018,0 -117.287804,33.28117,0 -117.287117,33.280739,0 -117.286087,33.282612,0 -117.28643,33.282612,0 -117.2854,33.282181,0 -117.282654,33.286339,0 -117.278358,33.290211,0 -117.277496,33.291069,0 -117.275963,33.297821,0 -117.286774,33.300831,0 -117.286598,33.315891,0 -117.284203,33.330811,0 -117.249352,33.329811,0 -117.250381,33.34042,0 -117.253639,33.34042,0 -117.253304,33.35146,0 -117.24472,33.349602,0 -117.24781,33.358059,0 -117.260681,33.359348,0 -117.261711,33.36121,0 -117.263077,33.36795,0 -117.262573,33.364368,0 -117.2612,33.376411,0 -117.258789,33.388161,0 -117.256729,33.406651,0 -117.274071,33.40794,0 -117.284882,33.412811,0 -117.295357,33.418259,0 -117.298958,33.416389,0 -117.304451,33.414101,0 -117.311661,33.40937,0 -117.317673,33.410229,0 -117.318703,33.41740000000001,0 -117.32299,33.417679,0 -117.323341,33.406651,0 -117.332092,33.406651,0 -117.333122,33.402779,0 -117.340851,33.402641,0 -117.339638,33.43158,0 -117.350967,33.43058,0 -117.36145,33.431438,0 -117.372429,33.430721,0 -117.388397,33.43029,0 -117.394577,33.43803,0 -117.397148,33.446331,0 -117.401268,33.455929,0 -117.405388,33.459511,0 -117.41655,33.463661,0 -117.443161,33.471828,0 -117.465988,33.477551,0 -117.466331,33.474548,0 -117.469254,33.472401,0 -117.472,33.47153900000001,0 -117.475433,33.471828,0 -117.473373,33.487862,0 -117.48848,33.503471,0 -117.509247,33.485291,0 -117.511818,33.516201,0 -117.409508,33.516201,0 -117.321617,33.47612000000001,0 -117.305138,33.45779,0 -117.175537,33.44096,0 -117.156647,33.434368,0 -117.135017,33.446049,0 -117.130653,33.44619000000001,0 -117.11631,33.44519,0 -117.094597,33.444469,0 -117.083443,33.44353900000001,0 -117.083351,33.435299,0 -117.081467,33.43058,0 -117.073227,33.43137,0 -117.063011,33.429138,0 -117.092278,33.442902,0 -117.0625,33.417969,0 -117.06456,33.406151,0 -117.064301,33.398769,0 -117.064133,33.38702,0 -117.075287,33.37598,0 -117.069878,33.327511,0 -117.066101,33.315102,0 -117.069962,33.306068,0 -117.001732,33.28727,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Lifted</name>
+			<Placemark>
+				<name>Evacuation Lifted: Chula Vista</name>
+				<description><![CDATA[Residents of Chula Vista that were previously evacuated may now return.<br>10/23, 4:50 p.m.]]></description>
+				<styleUrl>#default_copy0</styleUrl>
+				<Point>
+					<coordinates>-116.977615,32.64053,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Voluntary Evacuation Lifted: Otay Mesa</name>
+				<description>Voluntary Evacuation is lifted for Otay Mesa area north of the U.S. Border, west of Alta Road, south of Main Street, and east of Interstate 805</description>
+				<styleUrl>#default_copy0</styleUrl>
+				<Point>
+					<coordinates>-117.022247,32.581825,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Carlsbad: Voluntary Evacuation Lifted</name>
+				<description>Voluntary evacuation has been lifted from Carlsbad. 10/24 10:56 a.m.</description>
+				<styleUrl>#default_copy0</styleUrl>
+				<Point>
+					<coordinates>-117.336731,33.182388,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Notices Lifted</name>
+				<description>Evacuation notices lifted for Escondido neighborhoods Sonata and Sierra Linda. other neighborhoods still closed. 760-839-6262 for more info</description>
+				<styleUrl>#default_copy0</styleUrl>
+				<Point>
+					<coordinates>-117.04422,33.06752,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hidden Meadows Evacuation Lifted</name>
+				<description>Hidden Meadows evacuation notice lifted. Evacuation notice for the community of Hidden Meadows has been lifted. Residents who have evacuated the area are allowed to return to their homes.</description>
+				<styleUrl>#default_copy0</styleUrl>
+				<Point>
+					<coordinates>-117.114258,33.218582,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Lifted for Rancho Pasqual</name>
+				<description>Escondido officials are now allowing residents to re-enter the Rancho San Pasqual and Rancho Vista Monte neighborhoods.</description>
+				<styleUrl>#default_copy0</styleUrl>
+				<Point>
+					<coordinates>-117.065849,33.068382,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Lifted for Carmel Valley and Del Mar Heights</name>
+				<description><![CDATA[Del Mar Heights and Carmel Valley can be re-populated: west of Rancho Santa Fe Farms, east of Interstate 5, north of Highway 56. <br>10/24, 8:30 a.m.]]></description>
+				<styleUrl>#default_copy0</styleUrl>
+				<Point>
+					<coordinates>-117.215363,32.96489,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Voluntary Evacuation Lifted: Paradise Hills area</name>
+				<description>The voluntary evacuation in Paradise Hills is lifted north of Highway 54, west of Highway 125, south of Imperial Avenue/Lemon Grove Avenue, and east of Valencia Parkway.</description>
+				<styleUrl>#default_copy0</styleUrl>
+				<Point>
+					<coordinates>-117.0504,32.680275,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Current</name>
+			<Placemark>
+				<name>Evacuation: Lakeside</name>
+				<description><![CDATA[Mandatory evacuations have been ordered for Lakeside for all of Wildcat Canyon and Muth Valley south to Willow Road. <br><br>Evacuees are being directed to Santana High School. <br><br>10/23 9:53 a.m.]]></description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-116.907578,32.877281,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barrett Lake: Evacuation</name>
+				<description>The Sheriff has issued mandatory evacuations for Barrett Junction and Lake Barrett… and all homes south of those points.   Reverse 911 was used to notify at least 760 homes.</description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-116.656113,32.69603,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mandatory Evacuation: Harbison Canyon, Crest, and west Alpine</name>
+				<description><![CDATA[10/22 4:30pm Mandatory Evacuation has been announced in Harbison Canyon<br><br>The San Diego County Sheriff's Department ordered mandatory evacuation in the East County communities of west Alpine, Harbison Canyon and Crest Monday afternoon.]]></description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-116.826553,32.836906,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Solana Beach - Voluntary Evacuation</name>
+				<description>The City of Solana Beach has lifted all evacuation notices within the city. Residents who evacuated are allowed to return to their homes. 10/23, 4:50 p.m.</description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-117.27047,32.983898,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Jamul: Evacuation</name>
+				<description>Mandatory reverse 911 calls have been issued for North Jamul and Indian Springs. The fire is located near  Hwy 94. The evacuation center for this area  is Qualcomm Stadium. Reverse 911 calls have been made to 1,549 residents. 10/23 10:30 a.m.</description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-116.889038,32.734909,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Indian Springs: Evacuation</name>
+				<description>Mandatory reverse 911 calls have been issued for North Jamul and Indian Springs. The fire is located near  Hwy 94. The evacuation center for this area  is Qualcomm Stadium. Reverse 911 calls have been made to 1,549 residents. 10/23 10:31 a.m.</description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-116.878548,32.720612,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fallbrook &amp; De Luz: Mandatory Evacuation: Del Luz area of Fallbrook</name>
+				<description>Mandatory evacuation of De Luz area (Fallbrook). Reverse 9-1-1 is being used to issue mandatory evacuation orders to the Fallbrook area. The area boreders are the northern portion of Camp Pendelton on the south, the Riverside County border on the north and includes the community of Rainbow on the east. 10/23 11:08 a.m.</description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-117.323853,33.443619,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Miguel Ranch: Evacuation</name>
+				<description><![CDATA[Mandatory evacuations have been issued for San Miguel Ranch north and east of Mount Miguel Road South Bay. 
+<br>
+<br>10/23 11:50 a.m.
+<br>]]></description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-116.981216,32.661922,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation: Valley Center</name>
+				<description><![CDATA[Evacuation of Palomar Mountain and Valley Center. Reverse 9-1-1 is being used to issue evacuation orders to 924 Palomar Mountain and Valley Center households. <br><br>Residents are advised to take shelter at the Palomar Observatory, 35899 Canfield Road, Palomar Mountain 92060.Valley Center. 10/23 12:02 p.m.]]></description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-117.042847,33.252468,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harmony Grove: Evacuation</name>
+				<description>Reverse 9-1-1 is being used to issue evacuation orders to 1,095 Harmony Grove households.</description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-117.125931,33.100746,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Julian: Evacuation</name>
+				<description><![CDATA[10/23 11:06pm Sheriff’s officials report the town of Julian has been evacuated.  The town has no more power or water, and mandatory evacuations will be in effect through Thursday due to possibility of winds shifting back into town.<br>]]></description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-116.60202,33.07946,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Notice</name>
+				<description>Evacuations For Rancho San Diego. Residents should evacuate to Qualcomm Stadium. 10/23 3:00 p.m.</description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-116.935555,32.748734,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mandatory Evacuation: Cuyamaca</name>
+				<description>10-23-07 6:44 p.m. Mandatory Evacuation For Eagle Peak and Cuyamaca. A mandatory evacuation notice has been issued for Cuyamaca, just north of State Route 79 and Eagle Peak in the Engineers Road area.</description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-116.550865,33.0173,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mandatory Evacuation: Julian</name>
+				<description>Authorities are evacuating rural areas west of Julian along Wynola Road, Pine Hills Road and Eagle Peak Road due to possible threats from flare-ups around the point of origin of the Witch Fire.</description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-116.622108,33.048531,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oceanside: Voluntary Evacuation</name>
+				<description>Morrow Hills of Oceanside is now having voluntary evacuations. 10/24 11:23 a.m.</description>
+				<styleUrl>#default_copy1</styleUrl>
+				<Point>
+					<coordinates>-117.380676,33.212265,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>Evacuation Centers</name>
+		<open>1</open>
+		<Folder>
+			<name>Notices</name>
+			<Placemark>
+				<name>Evacuation Center Full</name>
+				<description><![CDATA[Campo Community Center is at capacity -- 2:20 a.m. October 25. [ 976 Sheridan Rd, Campo, CA 91906 ]<BR><A href="http://www.sdarc.org/"></A>]]></description>
+				<styleUrl>#default_copy3</styleUrl>
+				<Point>
+					<coordinates>-116.469604,32.608829,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center Full</name>
+				<description><![CDATA[<span>Escondido High School is full. <br></span><br><span>1535 N Broadway,&nbsp; </span><span>Escondido</span>, <span>CA</span> <span>92026</span><span></span><br>]]></description>
+				<styleUrl>#default_copy3</styleUrl>
+				<Point>
+					<coordinates>-117.090187,33.144176,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VOLUNTEERS NEEDED AT DEL MAR FAIRGROUNDS</name>
+				<description><![CDATA[If you have experience handling horses, you can volunteer your time at the Del Mar Fairgrounds to help with the 2,500 horses and other livestock displaced because of the fires.  Oct. 24, 3:00 p.m.<br><br>]]></description>
+				<styleUrl>#default_copy3</styleUrl>
+				<Point>
+					<coordinates>-117.258133,32.972488,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Miramar Precautionary Evacuation of Aircraft</name>
+				<description><![CDATA[The Marine Corps Air Station and the Third Marine Aircraft Wing are evacuating aircraft to other military bases in Arizona and California, the air station's public affairs unit announced Monday afternoon. The evacuation is a precautionary measure to prevent damage to aircraft and associated equipment.<br><br>10/22 - 5:55pm]]></description>
+				<styleUrl>#default_copy3</styleUrl>
+				<Point>
+					<coordinates>-117.145844,32.862286,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Shelter Turned Over to National Guard</name>
+				<description><![CDATA[The Church of Latter Day Saints is closed it has been turned over to the National Guard as a staging area. Citizens sheltered at<br>this location have been transferred to the evacuation center at Calvin Christian High<br>School at 2000 N. Broadway.]]></description>
+				<styleUrl>#default_copy3</styleUrl>
+				<Point>
+					<coordinates>-117.083961,33.0942,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center Full</name>
+				<description>El Camino High School evacuation center is full. [ 400 Rancho Del Oro Dr, Oceanside, CA ]</description>
+				<styleUrl>#default_copy3</styleUrl>
+				<Point>
+					<coordinates>-117.319054,33.22002,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center Full</name>
+				<description><![CDATA[Mira Mesa High School evacuation center is full.<br><br>10510 Reagan Rd. 92126<br><br>10/24 1:05 p.m.]]></description>
+				<styleUrl>#default_copy3</styleUrl>
+				<Point>
+					<coordinates>-117.139511,32.91021700000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center Full</name>
+				<description><![CDATA[Poway Community Park/Boys and Girls Club evacuation center is full.<br>10/24 1:11 p.m.]]></description>
+				<styleUrl>#default_copy3</styleUrl>
+				<Point>
+					<coordinates>-117.046753,32.95517,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center Full</name>
+				<description>San Diego High School evacuation center is full. 10/24 1:13 p.m.</description>
+				<styleUrl>#default_copy3</styleUrl>
+				<Point>
+					<coordinates>-117.153679,32.720757,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center Full</name>
+				<description>Steele Canyon High School in Spring Valley is full. 10/24 1:14 p.m.</description>
+				<styleUrl>#default_copy3</styleUrl>
+				<Point>
+					<coordinates>-116.924614,32.728031,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Centers</name>
+			<Placemark>
+				<name>Evacuation center: Qualcomm Stadium</name>
+				<description><![CDATA[<p><span>
+			  Approximately 800 residents remain at Qualcomm stadium.</span></p></p><p><span>10/25, 9:06 a.m.<br></span></p></p><p>-----<br></p></p><p>A low estimate of 11,000 evacuees at Qualcomm stadium.<br>
+10/24, 11:15 a.m.</p></p><p></p></p>
+
+
+
+
+
+<p>Qualcomm needs cots, portable showers, and toiletries.<br>
+10/24, 9:45 a.m.<br><br>
+Qualcomm requested that no more donations need to be dropped off unless
+requested.<br>
+10/23, 4:50 p.m.</p></p><p></p></p>
+
+
+
+<p>Donation needed at Qualcomm include boys clothing (4-7),
+girl’s/women's underwear (8-14), socks, clothing, face towels, ziplock bags.
+10/23, 2:50 p.m.</p></p><p></p></p>
+
+
+
+
+
+<p>Qualcomm needs volunteers for the night shift. City
+officials are reporting that NO FURTHER DONATIONS are needed at Qualcomm unless
+requested.<br>10/23, 2:30 p.m.</p></p><p></p></p>
+
+
+
+<p>The Qualcomm Stadium parking lot is only about 20-25% full
+at this point. People are unloading supplies, towels, bedding for fire victims.<br>
+10/22, 5:20 p.m.<br>
+<br>
+<a href="http://www.sdarc.org">http://www.sdarc.org</a></p></p><p></p></p>]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.120094,32.782513,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: San Marcos High School</name>
+				<description><![CDATA[This evacuation center is open to evacuees.<br><br>1615 W. San Marcos Blvd.<br>10/24 1:44 p.m.]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.209015,33.180664,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Poway Civic Center</name>
+				<description><![CDATA[Poway Civic Center is open for evacuees  <br><br>13325 Civic Center Drive<br>10/23 9:00 p.m.]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.042503,32.954502,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santana High School Evacuation Center</name>
+				<description>Santana High School is open for evacuees. 2:48 p.m. 10/22</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-116.970901,32.857403,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Valley Center High School Evacuation Center</name>
+				<description>Valley Center High School is open to evacuees. 2:51 p.m. 10/22</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.023621,33.280994,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Mission Hills Church</name>
+				<description><![CDATA[Mission Hills Church is open for evacuees.<br><br>400 Mission Hills Ct., San Marcos<br>10/23 4:00 p.m.]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.144814,33.1479,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Chula Vista High School</name>
+				<description>10/22 - 2.50pm - Chula Vista residents complying with voluntary evacuations can take shelter at Chula Vista High School, 820 4th Avenue.</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.078896,32.620869,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Encinitas Community Center</name>
+				<description>Encinitas Senior and Community Center is open for evacuees. [ 1140 Oak Crest Park Drive ] -- 4:00 p.m. Oct 23</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.26738,33.043781,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Calvin Christian School</name>
+				<description>Calvin Christian School is open for evacuees-- 2:20 a.m. October 25, 2007. [ 1868 N. Broadway, Escondido, CA 92026 ]</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.091492,33.15251500000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: MiraCosta College</name>
+				<description>MiraCosta College is open for evacuees. 1:00 a.m. Oct. 24 [ 1 Barnard Drive, Oceanside, CA ]</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.301086,33.189606,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Carlsbad High School</name>
+				<description>Carlsbad High School is open for evacuees -- 12:51 a.m. Oct. 23 [ 3557 Monroe St, Carlsbad, CA 92008 ]</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.327461,33.16301,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chula Vista Evacuation Center: Casa Familiar Civic &amp; Recreational Center</name>
+				<description>Chula Vista Evacuation site: Casa Familiar Civic &amp;amp; Recreational Center 10/23 11:44 a.m.</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.042847,32.606991,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Temecula Community Recreation Center</name>
+				<description><![CDATA[Temecula Community Recreation Center is an evacuation center, suggested for  Fallbrook and De Luz residents.<br>10-23, 4:10 p.m.]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.13623,33.500179,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: The Rock Church</name>
+				<description><![CDATA[The Rock Church
+<br>2277 Rosecrans St. 
+<br>San Diego, CA 92106 
+<br>619.226.ROCK (7625)
+<br>
+<br>The Rock Church is open as a shelter for special needs evacuees and relief center to bring donations.
+<br>]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.219101,32.73518,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: New Song Church</name>
+				<description>New Song Church at 3985 Mission Ave is open for evacuees.(760) 560-5000 ext 119, (760) 805-1945. 10/23, 5:00 p.m.</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.325058,33.239262,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SDSU Student, Faculty Evactuation Site</name>
+				<description>Peterson Gymnasium - located on the west site of campus on 55th Street - is now serving as a temporary shelter for students, faculty and staff and their families displaced by the fires. While this is not an official evacuation site, and the Red Cross services will not be available, SDSU is responding to the extraordinary circumstances and will do what&apos;s possible to assist those in need. A limited number of cots and sleeping bags are available.</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.077477,32.77396,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Borrego Springs High School</name>
+				<description>10/24 - 7:00 a.m. Anyone evacuating Julian can go to Borrego High School 2281 Diegueno Dr, Borrego Springs.</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-116.383644,33.264347,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Imperial Fairgrounds</name>
+				<description>10/23 - Imperial Fair Grounds is an evacuation center located at 200 2nd Street- Imperial Valley</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.129601,32.580685,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Shelter: Serra Mesa Christian Fellowship</name>
+				<description>Serra Mesa Christian Fellowship is open for evacuees. 4:00 p.m. Oct. 23 [ 2649 Murray Ridge Rd San Diego, CA 92123 ]</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.144577,32.79346100000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Shelter: Christian Church of Lemon Grove</name>
+				<description>Christian Church of Lemon Grove is open for evacuees. 4:00 p.m. Oct. 23 [ 6970 San Miguel Ave, Lemon Grove, CA 91945 ]</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.047913,32.735123,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Lighthouse Christian</name>
+				<description>Lighthouse Christian Church has shelter vacancies. [ 4700 Mesa Dr., Oceanside, CA 92056 ] (760) 726-0590.</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.291756,33.225048,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Walker Chapel</name>
+				<description>Walker Chapel, AME Church is located at 1415 Laurel St, Oceanside, CA 92054 and is providing shelter. (760) 757-6633.</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.374664,33.20666500000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Shelter: Generation Church</name>
+				<description>Generation Church is open for evacuees. 1:00 a.m. Oct. 24 [ 1106 Whaley St, Oceanside, CA 92054 ]</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.35849,33.179981,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Shelter: Calvary Chapel</name>
+				<description>Calvary Chapel Carlsbad is an open shelter. [ 6355 Corte Del Abeto, Carlsbad ] (760) 603-9777. 10/23, 4:00 p.m.</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.276222,33.118717,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation: Valley Center</name>
+				<description><![CDATA[Reverse 911 calls are being made to 409 residents in Valley Center threatened by the Poomacha Fire 3 miles east of Lake Wohlford Road. <br>10/24, 7 a.m.]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.023621,33.223755,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Kroc Center</name>
+				<description><![CDATA[<span>
+			  The Kroc Center has opened its doors for evacuees.<br>6845 University Ave.<br>619-287-5762<br>10/24, 9:40 p.m.<br></span>]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.04834,32.765915,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Faith Chapel of Spring Valley</name>
+				<description><![CDATA[Faith Chapel of Spring Valley is open for evacuees. Room for additional 200 people.<br>9400 Campo Rd<br>Spring Valley, CA  91977<br><br>619.461.7451<br>10/24 11:36 a.m.]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-116.994568,32.74987,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center</name>
+				<description><![CDATA[Chaparral High School<br>27215 Nicolas Rd, Temecula, CA]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.143051,33.538857,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center</name>
+				<description><![CDATA[Vista Murrieta High School<br>28251 Clinton Keith Rd, Murrieta, CA]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.167648,33.596661,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MCAS Miramar Evacuation Center</name>
+				<description><![CDATA[Marine Corps Air Station Miramar will open an evacuation site at 3 p.m. Wednesday, October 24 for active-duty members of the military, Department of Defense civilians and their families (bring your ID cards). <br><br>To get to the evacuation site go through the East Gate off I-15. From there you will be directed to the check-in center and evacuation site. <br><br>Department of Defense civilians and family members will be authorized to eat in the Mess Hall. MCAS Miramar is asking evacuees to bring their own food, water and blankets if possible. 10/24 2:40 p.m.<br><br> http://www.miramar.usmc.mil<br>]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.141769,32.885353,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: First Methodist Church</name>
+				<description>First Methodist Church open for evacuees. El Centro accepting Non-Perishables including towels, washcloths, combs, soap, etc.</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-115.561623,32.790504,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Center: Calvin Christian High School</name>
+				<description><![CDATA[Citizens sheltered at Latter Day Saints Church have been transferred to the evacuation center at Calvin Christian High<br>School at 2000 N. Broadway.]]></description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.091942,33.155266,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Red Cross Evacuation Shelter</name>
+				<description>Red Cross shelter opened at Harris Rincon Pavilion at 777 Rincon Way, Valley Center, CA</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-116.955383,33.265892,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation Shelter: Mount Miguel High School</name>
+				<description>Red Cross Shelter opened for evacuees at Mount Miguel High School, 8595 Blossom Lane, Spring Valley.</description>
+				<styleUrl>#default_copy4</styleUrl>
+				<Point>
+					<coordinates>-117.015785,32.724945,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Animal and RVs</name>
+			<Placemark>
+				<name>Large animal evacuation</name>
+				<description><![CDATA[<font face="Arial" size="2"><span>Residents
+with large animals are instructed to take them to the Lakeside Rodeo
+Grounds, located at Highway 67 and Mapleview Street, OR the San Diego
+County Fairgrounds in Del Mar. <br><a href="http://www.sdarc.org"><br>http://www.sdarc.org</a><br></span></font><span><br>12584 Mapleview St</span><br><span>Lakeside</span>, <span>CA</span> <span>92040</span><br>(619) 561-4331<a href="/maps?f=q&amp;hl=en&amp;geocode=&amp;time=&amp;date=&amp;ttype=&amp;q=Lakeside+Rodeo+Grounds&amp;sll=32.865746,-116.861572&amp;sspn=0.950468,1.842957&amp;ie=UTF8&amp;latlng=32863237,-116920479,6491191342258873155&amp;ei=W0gcR4WHL5v2iwPMg7z9CQ&amp;cd=1&amp;dtab=5"><br></a>]]></description>
+				<styleUrl>#default_copy50</styleUrl>
+				<Point>
+					<coordinates>-116.920624,32.862862,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fiesta Island Evacuation Center for Animals</name>
+				<description><![CDATA[Fiesta Island has room for horses accompanied by their owners. No corrals are available at this time, but the San Diego County Department of Animal Services has made food and water available for the animals. <br><br>Owners wishing to utilize this safe location must be prepared to stay with their horses.<br><br>10/23 9:43 a.m.]]></description>
+				<styleUrl>#default_copy50</styleUrl>
+				<Point>
+					<coordinates>-117.220428,32.778072,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Small Animals and RVs</name>
+				<description>10/22 - 7:20pm - The Home Depot parking lot at 298 Fletcher Parkway is open for small animals and RVs.</description>
+				<styleUrl>#default_copy50</styleUrl>
+				<Point>
+					<coordinates>-116.956329,32.790737,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Large Animal Shelter</name>
+				<description><![CDATA[Large Animal Shelter. San Diego County Animal Services has opened a shelter for large animals near Gillespie Field, 1960 Joe Crosson Dr. in El Cajon. Directions: Take East on Hwy 67; exit at Bradley Avenue and turn left; right on Cuyamaca; and left on Weld Blvd. The animal evacuation shelter will be on the right hand side of the road. <br><br>10/23 3:48 p.m.]]></description>
+				<styleUrl>#default_copy50</styleUrl>
+				<Point>
+					<coordinates>-116.969032,32.822334,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Animal Shelter: Rohr Park</name>
+				<description><![CDATA[Rohr Park in Chula Vista has plenty of room for horses. 4600 block of Sweetwater Road, near Winnetka Dr. call Dave Braithwaite 619-203-1640.<br>10/23, 5:05 p.m.]]></description>
+				<styleUrl>#default_copy50</styleUrl>
+				<Point>
+					<coordinates>-117.034691,32.665607,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evacuation: Large, Small Animals, RVs</name>
+				<description>The Imperial Valley Expo for displaced large and small animals, displaced truck drivers, and parking for RVs &amp;amp; hookups, NOT families. 10/24 10:25 a.m.</description>
+				<styleUrl>#default_copy50</styleUrl>
+				<Point>
+					<coordinates>-115.568787,32.84161,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chula Vista: Livestock Shelter</name>
+				<description>A livestock shelter established at the corner of Cuyamaca Street and Weld Boulevard in El Cajon requests donations to assist in its operation. They also need buckets and sleep supplies. 10/24 2:41 p.m.</description>
+				<styleUrl>#default_copy50</styleUrl>
+				<Point>
+					<coordinates>-116.983749,32.827869,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placemark 98</name>
+				<description><![CDATA[El Cajon Animal Shelter is accepting domestic animals and small livestock. <br>619-441-1580<br><br>1275 N. Marshall<br>10/24 2:51 p.m.]]></description>
+				<styleUrl>#default_copy50</styleUrl>
+				<Point>
+					<coordinates>-116.975815,32.813122,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>Road Closures</name>
+		<open>1</open>
+		<Folder>
+			<name>Openings</name>
+			<Placemark>
+				<name>Opened: Interstate 5 North</name>
+				<description>Interstate 5 is open from San Clemente to San Diego.  Conditions may change. 10/24 3:04 p.m.</description>
+				<styleUrl>#default_copy8</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+-117.384109,33.208244,0 -117.404533,33.234669,0 -117.413292,33.24041,0 -117.419991,33.250748,0 -117.429939,33.26223,0 -117.441612,33.272423,0 -117.459129,33.29409,0 -117.480759,33.312168,0 -117.483498,33.320629,0 -117.492599,33.329239,0 -117.57225,33.383865,0 -117.590103,33.39131900000001,0 -117.59285,33.399345,0 -117.59285,33.399345,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Update/Closure: SR-76</name>
+				<description><![CDATA[SR-76 is no longer closed from Mission Road to Old Highway 395; and
+<br>
+<br>SR-76 is now closed from Pankey Road to SR-79 (the previous closure extended from Cole Grade Road to SR-79). 
+<br>
+<br>(from CDOT 10/24 5:30PM)]]></description>
+				<styleUrl>#default_copy8</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+-116.711189,33.201351,0 -116.726303,33.20594,0 -116.759941,33.232368,0 -116.766121,33.238682,0 -116.7826,33.246719,0 -116.802521,33.260502,0 -116.812134,33.26509900000001,0 -116.83136,33.27486,0 -116.838219,33.276001,0 -116.847832,33.27256,0 -116.853333,33.277729,0 -116.862251,33.277149,0 -116.869118,33.277729,0 -116.868607,33.28289,0 -116.869293,33.285912,0 -116.875473,33.288059,0 -116.887154,33.288349,0 -116.900528,33.2938,0 -116.906029,33.295521,0 -116.908768,33.297821,0 -116.912209,33.30183,0 -116.91581,33.300831,0 -116.918221,33.297241,0 -116.920448,33.299831,0 -116.924568,33.302689,0 -116.929199,33.304699,0 -116.93367,33.302689,0 -116.938637,33.302551,0 -116.939667,33.299252,0 -116.942589,33.298962,0 -116.943451,33.296532,0 -116.946373,33.29509,0 -116.947739,33.292648,0 -116.956322,33.288921,0 -116.965515,33.289497,0 -116.970322,33.294807,0 -116.974266,33.301334,0 -116.981735,33.306431,0 -116.993408,33.319771,0 -117.002678,33.332535,0 -117.008087,33.339207,0 -117.021217,33.343006,0 -117.02491,33.347305,0 -117.026451,33.352684,0 -117.034866,33.355625,0 -117.042671,33.36021,0 -117.051254,33.363079,0 -117.061562,33.363941,0 -117.074692,33.364227,0 -117.098381,33.364513,0 -117.104729,33.361645,0 -117.111687,33.356987,0 -117.113312,33.350533,0 -117.117348,33.349388,0 -117.119751,33.34444,0 -117.133141,33.34322,0 -117.134087,33.339062,0 -117.136574,33.341068,0 -117.141037,33.341068,0 -117.144554,33.337914,0 -117.151253,33.335907,0 </coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Closures</name>
+			<Placemark>
+				<name>Closure: Interstate 8</name>
+				<description>Eastbound Interstate 8 is closed at Willows Road. Westbound closed at SR 79. All big rigs and high profile vehicles are being diverted.</description>
+				<styleUrl>#default_copy6</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>Highway Closure</name>
+				<description><![CDATA[I-15 remains closed from SR-56 to lower SR-79 in both directions.<br><br>10/22 5:20 p.m.]]></description>
+				<styleUrl>#default_copy6</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>SR-67 Closed</name>
+				<description><![CDATA[SR-67 CLOSED FROM SLAUGHTERHOUSE CANYON ROAD TO SR-78/SR-79<br>(from CDOT - 10/24 5:30PM)<br><br>Fire Related Freeway Closure Updates: http://tinyurl.com/frzj2]]></description>
+				<styleUrl>#default_copy6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+-116.94294,32.906902,0 -116.944054,32.907551,0 -116.94474,32.907982,0 -116.94577,32.908558,0 -116.946632,32.909206,0 -116.94706,32.91029,0 -116.94706,32.911224,0 -116.94706,32.912376,0 -116.947319,32.913097,0 -116.947922,32.913818,0 -116.949203,32.914902,0 -116.949722,32.91555,0 -116.94989,32.916557,0 -116.949379,32.917637,0 -116.948608,32.919224,0 -116.948257,32.920158,0 -116.94809,32.920952,0 -116.947922,32.922031,0 -116.94706,32.922752,0 -116.946198,32.923473,0 -116.945343,32.924698,0 -116.946892,32.92643,0 -116.94783,32.927509,0 -116.948952,32.927795,0 -116.950577,32.928734,0 -116.951012,32.929668,0 -116.951523,32.930176,0 -116.952377,32.930965,0 -116.952721,32.931831,0 -116.953156,32.932407,0 -116.953323,32.933056,0 -116.953499,32.933704,0 -116.953583,32.934425,0 -116.95401,32.934929,0 -116.954529,32.935936,0 -116.955215,32.93730500000001,0 -116.955215,32.938244,0 -116.955299,32.93961,0 -116.955727,32.940762,0 -116.956161,32.941483,0 -116.957191,32.942852,0 -116.95993,32.944294,0 -116.961479,32.94487,0 -116.962425,32.94566,0 -116.963799,32.947319,0 -116.965858,32.950485,0 -116.967232,32.952217,0 -116.968262,32.953583,0 -116.9692,32.954842,0 -116.969498,32.955448,0 -116.97049,32.95718,0 -116.97113,32.95797,0 -116.971603,32.958801,0 -116.971901,32.959492,0 -116.972633,32.960781,0 -116.972763,32.962189,0 -116.972382,32.963551,0 -116.971649,32.965569,0 -116.971222,32.966469,0 -116.97023,32.969528,0 -116.970139,32.970791,0 -116.970963,32.97216,0 -116.971603,32.972988,0 -116.972717,32.975868,0 -116.97422,32.980801,0 -116.975121,32.984982,0 -116.975548,32.986092,0 -116.976372,32.986851,0 -116.978302,32.988041,0 -116.979073,32.988899,0 -116.979332,32.989799,0 -116.97924,32.991852,0 -116.977951,32.993649,0 -116.975891,32.994869,0 -116.973877,32.99567,0 -116.971222,32.996349,0 -116.968597,32.99675,0 -116.965637,32.997929,0 -116.960922,32.99855,0 -116.959068,32.999298,0 -116.958382,33.00013,0 -116.958214,33.001209,0 -116.957611,33.00351,0 -116.956108,33.006069,0 -116.955078,33.008549,0 -116.954689,33.010529,0 -116.95401,33.01186,0 -116.95285,33.012619,0 -116.950317,33.012291,0 -116.946709,33.01136,0 -116.942123,33.01067,0 -116.93615,33.011002,0 -116.933022,33.01107,0 -116.931053,33.01096,0 -116.927101,33.009769,0 -116.925941,33.008949,0 -116.924606,33.008621,0 -116.923279,33.008732,0 -116.919418,33.010101,0 -116.914574,33.008949,0 -116.908951,33.012836,0 -116.891312,33.026691,0 -116.880753,33.035217,0 -116.868736,33.042019,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Road Closure</name>
+				<description><![CDATA[Lyons Valley Road, Skyline Truck Trail -- 6:00 p.m. Oct. 23<br><br>Fire Related Freeway Closure Updates: http://tinyurl.com/frzj2]]></description>
+				<styleUrl>#default_copy6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+-116.878571,32.720577,0 -116.863632,32.72924,0 -116.847839,32.735886,0 -116.808189,32.733864,0 -116.764931,32.725487,0 -116.747589,32.71249,0 -116.731277,32.704834,0 -116.718575,32.705269,0 -116.707764,32.710609,0 -116.704498,32.721733,0 -116.696091,32.730106,0 -116.6894,32.738914,0 -116.669144,32.748734,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Road Closed</name>
+				<description><![CDATA[Proctor Valley Road -- 6:00 p.m. Oct. 23<br><br>Fire Related Freeway Closure Updates: http://tinyurl.com/frzj2]]></description>
+				<styleUrl>#default_copy6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+-116.929207,32.664234,0 -116.918564,32.677528,0 -116.911697,32.684608,0 -116.909294,32.691833,0 -116.903976,32.692699,0 -116.905174,32.698044,0 -116.902428,32.702812,0 -116.889381,32.705555,0 -116.871529,32.707722,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Road Closed</name>
+				<description><![CDATA[Honey Springs Road -- 6:00 p.m. Oct. 23<br><br>Fire Related Freeway Closure Updates: http://tinyurl.com/frzj2]]></description>
+				<styleUrl>#default_copy6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+-116.747246,32.710754,0 -116.746902,32.701801,0 -116.753769,32.682152,0 -116.754456,32.677238,0 -116.760979,32.672615,0 -116.780548,32.672039,0 -116.787415,32.66597,0 -116.797371,32.66568,0 -116.807327,32.672615,0 -116.816597,32.668858,0 -116.82312,32.667702,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Closure: Interstate 8</name>
+				<description><![CDATA[Eastbound Interstate 8 is closed at Willows Road. Westbound closed at SR 79. All big rigs and high profile vehicles are being diverted. -- 2:00 a.m. Oct. 22<br><br>Fire Related Freeway Closure Updates: http://tinyurl.com/frzj2]]></description>
+				<styleUrl>#default_copy6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+-116.748962,32.835751,0 -116.674805,32.83979000000001,0 -116.603394,32.825363,0 -116.560822,32.823055,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>SR-79 CLOSED</name>
+				<description><![CDATA[SR-79 CLOSED FROM SR-78 TO SR-76 
+<br>(from CDOT 10/24 5:30PM)]]></description>
+				<styleUrl>#default_copy6</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>SR-78 CLOSED</name>
+				<description><![CDATA[SR-78 CLOSED FROM SAN PASQUAL VALLEY RD TO SANTA YSABEL/SR-79
+<br>(from CDOT 10/24 5:30PM)]]></description>
+				<styleUrl>#default_copy6</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>SR-78 CLOSED</name>
+				<description><![CDATA[SR-78 CLOSED FROM SAN PASQUAL VALLEY RD TO SANTA YSABEL/SR-79
+<br>(from CDOT 10/24 5:30PM)]]></description>
+				<styleUrl>#default_copy6</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>SR-94 CLOSED</name>
+				<description><![CDATA[SR-94 CLOSED FROM STEELE CANYON TO FORREST GATE
+<br>(from CDOT 10/24 5:30pm)]]></description>
+				<styleUrl>#default_copy6</styleUrl>
+			</Placemark>
+			<Placemark>
+				<name>Metrolink Shut Down</name>
+				<description><![CDATA[Metrolink and Amtrak Surfliner train service is shut down between Oceanside and San Clemente, through Camp Pendleton.<br><br>Amtrak will operate all southbound Pacific Surfliner service trains from Los Angeles and make all regular stops beginning with train 578 (the 2:00 p.m. departure from Los Angeles) as far as San Juan Capistrano.  At this time, only Amtrak trains 784 and 792 (the 5:10 and 8:00 p.m. departures from Los Angeles) remain to depart Los Angeles and then only as far as San Juan Capistrano.<br><br>At this time, Metrolink anticipates operating all regular Orange County Line trains tomorrow morning from Laguna Niguel/Mission Viejo station, not from Oceanside, unless fire conditions allow otherwise.  It is also anticipated that Inland Empire - Orange County Line trains will only operate as far as Laguna Niguel/Mission Viejo tomorrow morning.]]></description>
+				<styleUrl>#default_copy6</styleUrl>
+				<Point>
+					<coordinates>-117.500153,33.331676,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Placemark>
+		<name>Fire Map Legend</name>
+		<description><![CDATA[<img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/burn-area.gif" alt="red shaded area" align="absmiddle" height="32" width="32"> <font size="1">Estimated burn areas and fire perimeters</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/evacuation-area.gif" alt="yellow shaded area" align="absmiddle" height="32" width="32"> <font size="1">Estimated evacuation areas</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/fire.gif" alt="red fire icon" align="absmiddle" height="32" width="32"><font size="1"> Fire updates / incidents</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter.gif" alt="red cross icon" align="absmiddle" height="32" width="32"> <font size="1">Evacuation Shelter </font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png" alt="black cross icon" align="absmiddle"> <font size="1">Evacuation Shelter closed or at capacity</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/evacuation-notice.gif" alt="red exclamation mark" align="absmiddle"> <font size="1">New evacuation notices</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/line-road.gif" alt="blue line" align="absmiddle"><font size="1">&nbsp; Road closure</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/safe-return.gif" alt="green house" align="absmiddle"><font size="1"> Evacuation notice lifted, safe to return</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/contained-fire.gif" alt="green fire icon" align="absmiddle"><font size="1"> Fire 100% contained</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/livestock-shelter.gif" alt="horse icon" align="absmiddle"><font size="1"> Livestock / animal shelter</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/smoke.png" alt="smoke" align="absmiddle"><font size="1"> Smoke advisory</font>]]></description>
+		<styleUrl>#style79</styleUrl>
+		<Point>
+			<coordinates>-117.362823,32.761871,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
