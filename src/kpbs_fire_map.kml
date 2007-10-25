@@ -2,6 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
 	<name>Kpbs - SD 2007 Fire Map</name>
+	<visibility>0</visibility>
 	<open>1</open>
 	<Style id="style127">
 		<IconStyle>
@@ -10,18 +11,11 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="style6">
-		<IconStyle>
-			<Icon>
-				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="default_copy28">
+	<Style id="default_copy62">
 		<IconStyle>
 			<scale>0.5</scale>
 			<Icon>
-				<href>images/rangerstation.png</href>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -30,6 +24,13 @@
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
+	</Style>
+	<Style id="style6">
+		<IconStyle>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+		</IconStyle>
 	</Style>
 	<Style id="style68">
 		<IconStyle>
@@ -64,20 +65,6 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="default_copy24">
-		<IconStyle>
-			<scale>0.5</scale>
-			<Icon>
-				<href>images/firedept.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
 	<Style id="style12">
 		<LineStyle>
 			<color>660000ff</color>
@@ -101,11 +88,11 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="default_copy32">
+	<Style id="default_copy55">
 		<IconStyle>
 			<scale>0.5</scale>
 			<Icon>
-				<href>images/caution.png</href>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -136,6 +123,20 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<Style id="default_copy42">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
 	<Style id="style131">
 		<IconStyle>
 			<Icon>
@@ -143,16 +144,6 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="default_copy26">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#default_copy27</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#default_copy28</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="style49">
 		<IconStyle>
 			<Icon>
@@ -281,16 +272,6 @@
 			<color>990000ff</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="default_copy33">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#default_copy34</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#default_copy35</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="style101">
 		<IconStyle>
 			<Icon>
@@ -324,20 +305,6 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="default_copy52">
-		<IconStyle>
-			<scale>0.5</scale>
-			<Icon>
-				<href>images/horsebackriding.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
 	<Style id="style24">
 		<LineStyle>
 			<color>8099ffff</color>
@@ -363,6 +330,16 @@
 			<color>730000ff</color>
 		</PolyStyle>
 	</Style>
+	<StyleMap id="default_copy56">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default_copy57</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default_copy58</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="style86">
 		<IconStyle>
 			<Icon>
@@ -421,16 +398,6 @@
 			<color>730000ff</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="default_copy29">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#default_copy31</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#default_copy32</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="style17">
 		<IconStyle>
 			<Icon>
@@ -466,11 +433,25 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="default_copy27">
+	<Style id="default_copy57">
 		<IconStyle>
 			<scale>0.5</scale>
 			<Icon>
-				<href>images/rangerstation.png</href>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="default_copy45">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -526,6 +507,20 @@
 				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
 			</Icon>
 		</IconStyle>
+	</Style>
+	<Style id="default_copy47">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<Style id="style130">
 		<LineStyle>
@@ -638,6 +633,16 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<StyleMap id="default_copy39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default_copy41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default_copy42</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="style30">
 		<LineStyle>
 			<color>400000ff</color>
@@ -663,6 +668,16 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<StyleMap id="default_copy49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default_copy54</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default_copy55</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="style92">
 		<IconStyle>
 			<Icon>
@@ -692,6 +707,16 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<StyleMap id="default_copy46">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default_copy47</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default_copy48</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="style18">
 		<IconStyle>
 			<Icon>
@@ -718,20 +743,6 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="default_copy35">
-		<IconStyle>
-			<scale>0.5</scale>
-			<Icon>
-				<href>images/rangerstation.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
 	<Style id="style34">
 		<IconStyle>
 			<Icon>
@@ -752,11 +763,11 @@
 			<width>5</width>
 		</LineStyle>
 	</Style>
-	<Style id="default_copy34">
+	<Style id="default_copy48">
 		<IconStyle>
 			<scale>0.5</scale>
 			<Icon>
-				<href>images/rangerstation.png</href>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/caution.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -795,20 +806,6 @@
 		<PolyStyle>
 			<color>7399ccff</color>
 		</PolyStyle>
-	</Style>
-	<Style id="default_copy37">
-		<IconStyle>
-			<scale>0.5</scale>
-			<Icon>
-				<href>images/hospitals.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<Style id="style90">
 		<IconStyle>
@@ -855,20 +852,16 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="default_copy25">
-		<IconStyle>
-			<scale>0.5</scale>
-			<Icon>
-				<href>images/firedept.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
+	<StyleMap id="default_copy59">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default_copy61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default_copy62</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="style116">
 		<IconStyle>
 			<Icon>
@@ -915,6 +908,20 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<Style id="default_copy41">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
 	<Style id="default_copy16">
 		<IconStyle>
 			<scale>0.5</scale>
@@ -950,6 +957,16 @@
 			<color>997fffff</color>
 		</PolyStyle>
 	</Style>
+	<StyleMap id="default_copy43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default_copy44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default_copy45</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="style121">
 		<IconStyle>
 			<Icon>
@@ -963,20 +980,6 @@
 				<href>http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png</href>
 			</Icon>
 		</IconStyle>
-	</Style>
-	<Style id="default_copy31">
-		<IconStyle>
-			<scale>0.5</scale>
-			<Icon>
-				<href>images/caution.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<Style id="default_copy2">
 		<IconStyle>
@@ -1028,6 +1031,20 @@
 				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.white.png</href>
 			</Icon>
 		</IconStyle>
+	</Style>
+	<Style id="default_copy61">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<Style id="style118">
 		<IconStyle>
@@ -1103,26 +1120,20 @@
 			<color>997fffff</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="default_copy23">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#default_copy24</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#default_copy25</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="default_copy36">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#default_copy37</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#default_copy38</styleUrl>
-		</Pair>
-	</StyleMap>
+	<Style id="default_copy44">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/firedept.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
 	<Style id="style114">
 		<IconStyle>
 			<Icon>
@@ -1260,6 +1271,20 @@
 			</Icon>
 		</IconStyle>
 	</Style>
+	<Style id="default_copy58">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/hospitals.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
 	<Style id="style115">
 		<LineStyle>
 			<color>73ff0000</color>
@@ -1343,20 +1368,6 @@
 			<color>997fffff</color>
 		</PolyStyle>
 	</Style>
-	<Style id="default_copy53">
-		<IconStyle>
-			<scale>0.5</scale>
-			<Icon>
-				<href>images/horsebackriding.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
 	<Style id="style31">
 		<LineStyle>
 			<color>73ff0000</color>
@@ -1376,20 +1387,6 @@
 		<PolyStyle>
 			<color>997fffff</color>
 		</PolyStyle>
-	</Style>
-	<Style id="default_copy38">
-		<IconStyle>
-			<scale>0.5</scale>
-			<Icon>
-				<href>images/hospitals.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<Style id="default_copy1">
 		<IconStyle>
@@ -1454,6 +1451,20 @@
 				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/horsebackriding.png</href>
 			</Icon>
 		</IconStyle>
+	</Style>
+	<Style id="default_copy54">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/rangerstation.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<Style id="style37">
 		<IconStyle>
@@ -1544,16 +1555,6 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<StyleMap id="default_copy51">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#default_copy52</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#default_copy53</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="style2">
 		<IconStyle>
 			<Icon>
@@ -1609,8 +1610,10 @@
 	</Style>
 	<Folder>
 		<name>Updates</name>
+		<visibility>0</visibility>
 		<Placemark>
 			<name>KPBS Broadcast Tower</name>
+			<visibility>0</visibility>
 			<description><![CDATA[We are now back on the air on KPBS 89.5 FM<br><br>--<br><br>Get our radio broadcast through San Diego's CityTV (Cox South ch 24/Cox North ch 19/Time Warner ch 22), and County Television Network. <br><br>--<br><br>KPBS has lost TV and radio connection with the Mt. San Miguel broadcast towers and is now broadcasting on FM 94.9.  All cable customers will not be affected.]]></description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1619,6 +1622,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Smoke Advisory</name>
+			<visibility>0</visibility>
 			<description><![CDATA[The Air Pollution Control District has issued a Precautionary Smoke Advisory for the San Diego Air Basin, which encompasses San Diego County. <a href="http://www.sdapcd.org/air/smoke/smoke1.html">Learn more about the dangers of smoke »</a>]]></description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1627,6 +1631,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Sera Mesa Housing Return Home</name>
+			<visibility>0</visibility>
 			<description>Camp Pendleton officials say the San Luis Rey fire is no longer a threat to the southeastern region of Camp Pendleton, and Serra Mesa residents can return to their homes.</description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1635,6 +1640,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Las Pulgas Housing Area</name>
+			<visibility>0</visibility>
 			<description>Las Pulgas (43 Area) is relocating to Margarita (33Area).</description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1643,6 +1649,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Las Flores Housing 41 Area</name>
+			<visibility>0</visibility>
 			<description>Las Flores (41 Area) is relocating to Del Mar (21 Area).</description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1651,6 +1658,7 @@
 		</Placemark>
 		<Placemark>
 			<name>San Onofre Housing</name>
+			<visibility>0</visibility>
 			<description><![CDATA[Camp Pendleton officials have announced the Horno Fire is no longer a threat to San Onofre Housing, and residents can return<br>to their homes.]]></description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1659,6 +1667,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Tierra Bonita &amp; Twin Peaks safe for return</name>
+			<visibility>0</visibility>
 			<description><![CDATA[Tierra Bonita and Twin Peaks area are safe for repopulation.<br>10/24 2:37 p.m.]]></description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1667,6 +1676,7 @@
 		</Placemark>
 		<Placemark>
 			<name>San Marcos: Safe for return</name>
+			<visibility>0</visibility>
 			<description>The City of San Marcos is safe for repopulation. 10/24 2:16 p.m.</description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1675,6 +1685,7 @@
 		</Placemark>
 		<Placemark>
 			<name>West Rancho Bernardo safe for return</name>
+			<visibility>0</visibility>
 			<description><![CDATA[The following areas are safe for repopulation: West Rancho Bernardo: N of 56, W of 15, E of Rancho Santa Fe Farms, South of Rancho Bernardo Rd.<br>10/24 2:06 p.m.]]></description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1683,6 +1694,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Rancho Penasquitos: Some areas safe for return</name>
+			<visibility>0</visibility>
 			<description>Partial repopulation in Rancho Penasquitos: Area north of SR-56, south of Rancho Bernardo Rd, west of I-15 and east Rancho Santa Fe Farms. 10/24 2:01 p.m.</description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1691,6 +1703,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Encinitas: Some areas safe for return</name>
+			<visibility>0</visibility>
 			<description>The area of Olivenhain is safe for return. Officials will be checking IDs to make sure you live in the area. 10/24 11:00 a.m.</description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1699,6 +1712,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Rancho Bernardo: Some areas safe for return</name>
+			<visibility>0</visibility>
 			<description>NE Rancho Bernardo is safe for return if you live south of Paseo de Verano North, east of Pomerado, north of Espola Rd and west of Poway. 10-24 10:28 a.m.</description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1707,6 +1721,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Poway: Some areas safe for return</name>
+			<visibility>0</visibility>
 			<description><![CDATA[Authorities discovered two bodies near Poway. Medical examiners are trying to establish their identities.<br>10/25, 9:07 a.m.<br><br>-----<br><br>High Valley Road and Crocker road are the only regions of the city of Poway still under mandatory evacuation.<br><br>A map of the reopened area and a list of the reopened addresses are available at poway.org. 10/24 10:36 a.m. <br>]]></description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1715,6 +1730,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Scripps Ranch: Some areas safe for return</name>
+			<visibility>0</visibility>
 			<description><![CDATA[Some areas of Scripps Ranch are now safe to return to: south of Dealer Canyon Road, west of Sycamore, east of I-15 and north of MCAS Miramar. 10/23 12:36 p.m.<br>]]></description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1723,6 +1739,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Del Mar Heights: Some areas safe for return</name>
+			<visibility>0</visibility>
 			<description><![CDATA[Residents will be allowed to move back into Del Mar Heights south of Via de la Valle, west of I-5 and north of Torrey Pines State Beach. <br>10/23 12:52 p.m.]]></description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1731,6 +1748,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Escondido: Some areas safe for return</name>
+			<visibility>0</visibility>
 			<description><![CDATA[Escondido has reopened two of its evacuated neighborhoods: Sonata and Sierra Linda, both east of Interstate 15 and south of Bear Valley Parkway.<br><br>Be prepared to show ID. 10/24 2:44 p.m.<br><br>Escondido is under a mandatory evacuation in the Bear Valley / 78 area.<br><br>For information about Escondido evacuation updates go to www.escondido.org or call 760-839-6262<br><br>10/24 1:47 p.m.]]></description>
 			<styleUrl>#default0</styleUrl>
 			<Point>
@@ -1740,11 +1758,14 @@
 	</Folder>
 	<Folder>
 		<name>Fires</name>
+		<visibility>0</visibility>
 		<open>1</open>
 		<Folder>
 			<name>Perimeters</name>
+			<visibility>0</visibility>
 			<Placemark>
 				<name>Witch Creek Fire</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Poomacha and Witch fires have not joined together as feared earlier (10/25 7:15AM).
 <br>
 <br>Collectively the fires have burned 196,420 acres.
@@ -1762,6 +1783,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Rice Fire</name>
+				<visibility>0</visibility>
 				<description>Estimated fire perimeter -- 11:00 p.m. Oct. 23</description>
 				<styleUrl>#default_copy15</styleUrl>
 				<Polygon>
@@ -1776,6 +1798,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Witch Creek Fire</name>
+				<visibility>0</visibility>
 				<description><![CDATA[<span>Witch Fire has burned 190,170 acres. <br></span><ul><li><span>It is 20 percent contained. <br></span></li></li><li><span>1,061 residences have been destroyed. <br></span></li></li><li><span>Firefighters have made gains as weather change has helped.</span></li></li></ul><span>10/25, 8:40 a.m.<br><br>-----<br></span>
 <ul>
 <li><span>Poomacha and Witch fires have not joined together as feared earlier.</span></li></li>
@@ -1793,6 +1816,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Rice Canyon Fire</name>
+				<visibility>0</visibility>
 				<description><![CDATA[<span>Rice Fire has burned 9,500 acres. <br></span><ul><li><span>It is 20 percent contained. <br></span></li></li><li><span>It is burning north to Riverside. <br></span></li></li><li><span>There are 1,000 firefighters on the line.</span></li></li></ul><span>10/25, 8:45 a.m.<br><br>-----<br></span><br><span></span><ul type="disc">
 <li>The Rice Fire is expected to be fully contained by Oct. 28.</li></li>
 <li>The Rice Fire is 9,000 acres and 20% contained. </li></li>
@@ -1816,6 +1840,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Harris Fire</name>
+				<visibility>0</visibility>
 				<description>Estimated fire perimeter</description>
 				<styleUrl>#default_copy15</styleUrl>
 				<Polygon>
@@ -1830,6 +1855,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Rosa Fire</name>
+				<visibility>0</visibility>
 				<description>Estimated Fire Perimeter - This fire has burned 411 acres and is 100 percent contained. Two outbuildings were destroyed by this fire. Evacuations have been lifted and residents are allowed to return to their homes. All roads are open. 223 firefighters are assigned to this incident under CAL FIRE command. The cause of this fire is arson. Rosa Fire Information Line (951) 940-6985.</description>
 				<styleUrl>#default_copy15</styleUrl>
 				<Polygon>
@@ -1844,6 +1870,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Wilcox Fire</name>
+				<visibility>0</visibility>
 				<description>This 200 acre fire on Camp Pendleton is now 100% contained. Wilcox Fire Information Line (866) 430-2764.</description>
 				<styleUrl>#default_copy15</styleUrl>
 				<Polygon>
@@ -1858,6 +1885,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Coronado Hills Fire: Contained</name>
+				<visibility>0</visibility>
 				<description><![CDATA[The Roca fire in East Temecula and the Coronado Hills Fire (South of Cal State San Marcos) have been 100 percent contained.<br>10-23, 3:35 p.m.]]></description>
 				<styleUrl>#default_copy15</styleUrl>
 				<Point>
@@ -1866,6 +1894,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Horno Fire</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Estimated burn area.<br><br>The Horno fire has scorched about 6,000 acres and is 10 percent<br>contained.]]></description>
 				<styleUrl>#default_copy15</styleUrl>
 				<Polygon>
@@ -1880,6 +1909,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Horno Fire Burn Area</name>
+				<visibility>0</visibility>
 				<styleUrl>#default_copy15</styleUrl>
 				<Polygon>
 					<outerBoundaryIs>
@@ -1893,6 +1923,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Previous Burned Area</name>
+				<visibility>0</visibility>
 				<description><![CDATA[NOT A CURRENT ACTIVE FIRE!!<br><br>Perimeter of burned are updated 10/24/07  20:00hrs]]></description>
 				<styleUrl>#default_copy15</styleUrl>
 				<Polygon>
@@ -1907,6 +1938,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Fire (no name)</name>
+				<visibility>0</visibility>
 				<description><![CDATA[The five-acre fire near the Commissary (the Base's largest grocery store) in<br>the 21 Area is also 100 percent contained.]]></description>
 				<styleUrl>#default_copy15</styleUrl>
 				<Polygon>
@@ -1922,16 +1954,19 @@
 		</Folder>
 		<Folder>
 			<name>Locations</name>
+			<visibility>0</visibility>
 			<Placemark>
 				<name>Fire Report</name>
+				<visibility>0</visibility>
 				<description>Fire has been reported in Fairbanks Ranch area.</description>
-				<styleUrl>#default_copy23</styleUrl>
+				<styleUrl>#default_copy43</styleUrl>
 				<Point>
 					<coordinates>-117.191162,33.023632,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Harris Fire</name>
+				<visibility>0</visibility>
 				<description><![CDATA[<span>Harris Fire at 84,000 acres burned. <br></span><ul><li><span>The major threat now is in Lyons Valley. <br></span></li></li><li><span>155 structures destroyed.</span></li></li></ul><span>10/25, 8:37 a.m.<br><br>-----<br></span><br>Harris Fire reported at 75,000 acres and 10% containment.<br>
 <ul type="disc">
 <li><font size="2"><span style="font-size:10pt;color:black;font-family:Arial">Suppression costs are at $3.4 million.&nbsp; </span></font></li></li>
@@ -1968,23 +2003,25 @@
 <p></p></p><p></p></p>
 <p></p></p><p></p></p>
 <p></p></p><p></p></p>]]></description>
-				<styleUrl>#default_copy23</styleUrl>
+				<styleUrl>#default_copy43</styleUrl>
 				<Point>
 					<coordinates>-116.732483,32.619713,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Poomacha Fire</name>
+				<visibility>0</visibility>
 				<description><![CDATA[<span>Poomacha  fire has burned 35,000 acres. <br></span><ul><li><span>It is 10 percent contained. <br></span></li></li><li><span>700 personnel have been assigned to fire. <br></span></li></li><li><span>It has not merged with Witch Fire, but&nbsp; it is close.</span></li></li></ul><font face="arial">10/25, 8:42 a.m.<br>-----<br><br>The Poomacha fire, which started on Palomar Mountain, has burned 35,000<br>acres and is&nbsp;10 percent contained. There have been 12 firefighters injured. 719 firefighters are currently assigned to this fire. The estimated cost of this fire to date is $750,000.&nbsp;</font>Poomacha fire is moving toward Palomar Mountain on the north side and the Cleveland National Forest on the east side.<br><br>The fire started October 23 as a structure fire on the Lajolla Indian Reservation. Poomacha Fire Information Line (619) 590-3160. <br>]]></description>
-				<styleUrl>#default_copy23</styleUrl>
+				<styleUrl>#default_copy43</styleUrl>
 				<Point>
 					<coordinates>-116.906204,33.297249,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Horno Fire</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Camp Pendelton fires are 40 to 45 percent contained. The danger is that there are two heads to the fire. No relocations in  the last 12 hours.<br>10/25, 8:35 a.m.<br><br>-----<br><br>Three fires are burning on the Camp Pendleton Marine Corps Base. Currently, Basilone Rd. has been closed from Deer Park to the Las Pulgas 43<br>Area Landfill entrance, which is approximately eight miles. The San Luis Rey Gate is closed to inbound and outbound traffic. Metrolink train service is shut down between Oceanside and San Clemente.<br><br>-Camp Pendleton information hotline: (866) 430-2764<br>-Camp Pendleton TV (KPEN): Channel 18]]></description>
-				<styleUrl>#default_copy23</styleUrl>
+				<styleUrl>#default_copy43</styleUrl>
 				<Point>
 					<coordinates>-117.524185,33.357487,0</coordinates>
 				</Point>
@@ -1993,11 +2030,14 @@
 	</Folder>
 	<Folder>
 		<name>Evacuations</name>
+		<visibility>0</visibility>
 		<open>1</open>
 		<Folder>
 			<name>Perimeters</name>
+			<visibility>0</visibility>
 			<Placemark>
 				<name>Witch Fire and Poomacha Estimated Evacuation</name>
+				<visibility>0</visibility>
 				<description>10/23 - Estimated Evacuation Perimeter as of 11pm</description>
 				<styleUrl>#default_copy100</styleUrl>
 				<Polygon>
@@ -2012,6 +2052,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Harris Fire Evacuation Area</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Estimated fire evacuation perimeter --<br><ul><li>Harris Fire has covered about 75,000 acres and is 10% contained. Full containment expected on the 28th and full control on Nov. 4th.</li></li></li></li><li>1,341 firefighters assigned and 7 injuries to firefighters.</li></li></li></li><li>Cost to date to fight the fires is $3,400,000.</li></li></li></li><li>155 homes destroyed, 250 homes damaged, 2 commercial properties and 17 outbuildings destroyed.</li></li></li></li><li><font face="arial">Shifting wind patterns prompted a 75,000-acre wildfire to focus its destructive energies in new directions today, authorities said. As onshore air currents replaced a protracted period of bone-dry Santa Ana winds, the Harris fire began moving to the northeast, toward Campo, Hauser Canyon, Jamul, Lake Morena and Lyons Valley, according to Cal Fire.</font></li></li></li></li></ul>]]></description>
 				<styleUrl>#default_copy101</styleUrl>
 				<Polygon>
@@ -2026,6 +2067,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Harris Fire Evacuation Extension</name>
+				<visibility>0</visibility>
 				<styleUrl>#default_copy101</styleUrl>
 				<Polygon>
 					<outerBoundaryIs>
@@ -2039,6 +2081,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Area</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Estimated Perimeter as of 10/23 11:00pm Fallbrook Evacuations<br><br>10/24 1:20am  The Rice Canyon fire is 10% contained, 206 homes have burned and 1500 more are threatened.]]></description>
 				<styleUrl>#default_copy101</styleUrl>
 				<Polygon>
@@ -2054,66 +2097,75 @@
 		</Folder>
 		<Folder>
 			<name>Lifted</name>
+			<visibility>0</visibility>
 			<Placemark>
 				<name>Evacuation Lifted: Chula Vista</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Residents of Chula Vista that were previously evacuated may now return.<br>10/23, 4:50 p.m.]]></description>
-				<styleUrl>#default_copy26</styleUrl>
+				<styleUrl>#default_copy39</styleUrl>
 				<Point>
 					<coordinates>-116.977615,32.64053,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Voluntary Evacuation Lifted: Otay Mesa</name>
+				<visibility>0</visibility>
 				<description>Voluntary Evacuation is lifted for Otay Mesa area north of the U.S. Border, west of Alta Road, south of Main Street, and east of Interstate 805</description>
-				<styleUrl>#default_copy26</styleUrl>
+				<styleUrl>#default_copy39</styleUrl>
 				<Point>
 					<coordinates>-117.022247,32.581825,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Carlsbad: Voluntary Evacuation Lifted</name>
+				<visibility>0</visibility>
 				<description>Voluntary evacuation has been lifted from Carlsbad. 10/24 10:56 a.m.</description>
-				<styleUrl>#default_copy26</styleUrl>
+				<styleUrl>#default_copy39</styleUrl>
 				<Point>
 					<coordinates>-117.336731,33.182388,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Notices Lifted</name>
+				<visibility>0</visibility>
 				<description>Evacuation notices lifted for Escondido neighborhoods Sonata and Sierra Linda. other neighborhoods still closed. 760-839-6262 for more info</description>
-				<styleUrl>#default_copy26</styleUrl>
+				<styleUrl>#default_copy39</styleUrl>
 				<Point>
 					<coordinates>-117.04422,33.06752,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Hidden Meadows Evacuation Lifted</name>
+				<visibility>0</visibility>
 				<description>Hidden Meadows evacuation notice lifted. Evacuation notice for the community of Hidden Meadows has been lifted. Residents who have evacuated the area are allowed to return to their homes.</description>
-				<styleUrl>#default_copy26</styleUrl>
+				<styleUrl>#default_copy39</styleUrl>
 				<Point>
 					<coordinates>-117.114258,33.218582,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Lifted for Rancho Pasqual</name>
+				<visibility>0</visibility>
 				<description>Escondido officials are now allowing residents to re-enter the Rancho San Pasqual and Rancho Vista Monte neighborhoods.</description>
-				<styleUrl>#default_copy26</styleUrl>
+				<styleUrl>#default_copy39</styleUrl>
 				<Point>
 					<coordinates>-117.065849,33.068382,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Lifted for Carmel Valley and Del Mar Heights</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Del Mar Heights and Carmel Valley can be re-populated: west of Rancho Santa Fe Farms, east of Interstate 5, north of Highway 56. <br>10/24, 8:30 a.m.]]></description>
-				<styleUrl>#default_copy26</styleUrl>
+				<styleUrl>#default_copy39</styleUrl>
 				<Point>
 					<coordinates>-117.215363,32.96489,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Voluntary Evacuation Lifted: Paradise Hills area</name>
+				<visibility>0</visibility>
 				<description>The voluntary evacuation in Paradise Hills is lifted north of Highway 54, west of Highway 125, south of Imperial Avenue/Lemon Grove Avenue, and east of Valencia Parkway.</description>
-				<styleUrl>#default_copy26</styleUrl>
+				<styleUrl>#default_copy39</styleUrl>
 				<Point>
 					<coordinates>-117.0504,32.680275,0</coordinates>
 				</Point>
@@ -2121,125 +2173,141 @@
 		</Folder>
 		<Folder>
 			<name>Current</name>
+			<visibility>0</visibility>
 			<Placemark>
 				<name>Evacuation: Lakeside</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Mandatory evacuations have been ordered for Lakeside for all of Wildcat Canyon and Muth Valley south to Willow Road. <br><br>Evacuees are being directed to Santana High School. <br><br>10/23 9:53 a.m.]]></description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-116.907578,32.877281,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Barrett Lake: Evacuation</name>
+				<visibility>0</visibility>
 				<description>The Sheriff has issued mandatory evacuations for Barrett Junction and Lake Barrett… and all homes south of those points.   Reverse 911 was used to notify at least 760 homes.</description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-116.656113,32.69603,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Mandatory Evacuation: Harbison Canyon, Crest, and west Alpine</name>
+				<visibility>0</visibility>
 				<description><![CDATA[10/22 4:30pm Mandatory Evacuation has been announced in Harbison Canyon<br><br>The San Diego County Sheriff's Department ordered mandatory evacuation in the East County communities of west Alpine, Harbison Canyon and Crest Monday afternoon.]]></description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-116.826553,32.836906,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Solana Beach - Voluntary Evacuation</name>
+				<visibility>0</visibility>
 				<description>The City of Solana Beach has lifted all evacuation notices within the city. Residents who evacuated are allowed to return to their homes. 10/23, 4:50 p.m.</description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-117.27047,32.983898,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>North Jamul: Evacuation</name>
+				<visibility>0</visibility>
 				<description>Mandatory reverse 911 calls have been issued for North Jamul and Indian Springs. The fire is located near  Hwy 94. The evacuation center for this area  is Qualcomm Stadium. Reverse 911 calls have been made to 1,549 residents. 10/23 10:30 a.m.</description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-116.889038,32.734909,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Indian Springs: Evacuation</name>
+				<visibility>0</visibility>
 				<description>Mandatory reverse 911 calls have been issued for North Jamul and Indian Springs. The fire is located near  Hwy 94. The evacuation center for this area  is Qualcomm Stadium. Reverse 911 calls have been made to 1,549 residents. 10/23 10:31 a.m.</description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-116.878548,32.720612,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Fallbrook &amp; De Luz: Mandatory Evacuation: Del Luz area of Fallbrook</name>
+				<visibility>0</visibility>
 				<description>Mandatory evacuation of De Luz area (Fallbrook). Reverse 9-1-1 is being used to issue mandatory evacuation orders to the Fallbrook area. The area boreders are the northern portion of Camp Pendelton on the south, the Riverside County border on the north and includes the community of Rainbow on the east. 10/23 11:08 a.m.</description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-117.323853,33.443619,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>San Miguel Ranch: Evacuation</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Mandatory evacuations have been issued for San Miguel Ranch north and east of Mount Miguel Road South Bay. 
 <br>
 <br>10/23 11:50 a.m.
 <br>]]></description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-116.981216,32.661922,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation: Valley Center</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Evacuation of Palomar Mountain and Valley Center. Reverse 9-1-1 is being used to issue evacuation orders to 924 Palomar Mountain and Valley Center households. <br><br>Residents are advised to take shelter at the Palomar Observatory, 35899 Canfield Road, Palomar Mountain 92060.Valley Center. 10/23 12:02 p.m.]]></description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-117.042847,33.252468,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Harmony Grove: Evacuation</name>
+				<visibility>0</visibility>
 				<description>Reverse 9-1-1 is being used to issue evacuation orders to 1,095 Harmony Grove households.</description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-117.125931,33.100746,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Julian: Evacuation</name>
+				<visibility>0</visibility>
 				<description><![CDATA[10/23 11:06pm Sheriff’s officials report the town of Julian has been evacuated.  The town has no more power or water, and mandatory evacuations will be in effect through Thursday due to possibility of winds shifting back into town.<br>]]></description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-116.60202,33.07946,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Notice</name>
+				<visibility>0</visibility>
 				<description>Evacuations For Rancho San Diego. Residents should evacuate to Qualcomm Stadium. 10/23 3:00 p.m.</description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-116.935555,32.748734,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Mandatory Evacuation: Cuyamaca</name>
+				<visibility>0</visibility>
 				<description>10-23-07 6:44 p.m. Mandatory Evacuation For Eagle Peak and Cuyamaca. A mandatory evacuation notice has been issued for Cuyamaca, just north of State Route 79 and Eagle Peak in the Engineers Road area.</description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-116.550865,33.0173,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Mandatory Evacuation: Julian</name>
+				<visibility>0</visibility>
 				<description>Authorities are evacuating rural areas west of Julian along Wynola Road, Pine Hills Road and Eagle Peak Road due to possible threats from flare-ups around the point of origin of the Witch Fire.</description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-116.622108,33.048531,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Oceanside: Voluntary Evacuation</name>
+				<visibility>0</visibility>
 				<description>Morrow Hills of Oceanside is now having voluntary evacuations. 10/24 11:23 a.m.</description>
-				<styleUrl>#default_copy29</styleUrl>
+				<styleUrl>#default_copy46</styleUrl>
 				<Point>
 					<coordinates>-117.380676,33.212265,0</coordinates>
 				</Point>
@@ -2248,85 +2316,97 @@
 	</Folder>
 	<Folder>
 		<name>Evacuation Centers</name>
+		<visibility>0</visibility>
 		<open>1</open>
 		<Folder>
 			<name>Notices</name>
+			<visibility>0</visibility>
 			<Placemark>
 				<name>Evacuation Center Full</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Campo Community Center is at capacity -- 2:20 a.m. October 25. [ 976 Sheridan Rd, Campo, CA 91906 ]<BR><A href="http://www.sdarc.org/"></A>]]></description>
-				<styleUrl>#default_copy33</styleUrl>
+				<styleUrl>#default_copy49</styleUrl>
 				<Point>
 					<coordinates>-116.469604,32.608829,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center Full</name>
+				<visibility>0</visibility>
 				<description><![CDATA[<span>Escondido High School is full. <br></span><br><span>1535 N Broadway,&nbsp; </span><span>Escondido</span>, <span>CA</span> <span>92026</span><span></span><br>]]></description>
-				<styleUrl>#default_copy33</styleUrl>
+				<styleUrl>#default_copy49</styleUrl>
 				<Point>
 					<coordinates>-117.090187,33.144176,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>VOLUNTEERS NEEDED AT DEL MAR FAIRGROUNDS</name>
+				<visibility>0</visibility>
 				<description><![CDATA[If you have experience handling horses, you can volunteer your time at the Del Mar Fairgrounds to help with the 2,500 horses and other livestock displaced because of the fires.  Oct. 24, 3:00 p.m.<br><br>]]></description>
-				<styleUrl>#default_copy33</styleUrl>
+				<styleUrl>#default_copy49</styleUrl>
 				<Point>
 					<coordinates>-117.258133,32.972488,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Miramar Precautionary Evacuation of Aircraft</name>
+				<visibility>0</visibility>
 				<description><![CDATA[The Marine Corps Air Station and the Third Marine Aircraft Wing are evacuating aircraft to other military bases in Arizona and California, the air station's public affairs unit announced Monday afternoon. The evacuation is a precautionary measure to prevent damage to aircraft and associated equipment.<br><br>10/22 - 5:55pm]]></description>
-				<styleUrl>#default_copy33</styleUrl>
+				<styleUrl>#default_copy49</styleUrl>
 				<Point>
 					<coordinates>-117.145844,32.862286,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Shelter Turned Over to National Guard</name>
+				<visibility>0</visibility>
 				<description><![CDATA[The Church of Latter Day Saints is closed it has been turned over to the National Guard as a staging area. Citizens sheltered at<br>this location have been transferred to the evacuation center at Calvin Christian High<br>School at 2000 N. Broadway.]]></description>
-				<styleUrl>#default_copy33</styleUrl>
+				<styleUrl>#default_copy49</styleUrl>
 				<Point>
 					<coordinates>-117.083961,33.0942,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center Full</name>
+				<visibility>0</visibility>
 				<description>El Camino High School evacuation center is full. [ 400 Rancho Del Oro Dr, Oceanside, CA ]</description>
-				<styleUrl>#default_copy33</styleUrl>
+				<styleUrl>#default_copy49</styleUrl>
 				<Point>
 					<coordinates>-117.319054,33.22002,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center Full</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Mira Mesa High School evacuation center is full.<br><br>10510 Reagan Rd. 92126<br><br>10/24 1:05 p.m.]]></description>
-				<styleUrl>#default_copy33</styleUrl>
+				<styleUrl>#default_copy49</styleUrl>
 				<Point>
 					<coordinates>-117.139511,32.91021700000001,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center Full</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Poway Community Park/Boys and Girls Club evacuation center is full.<br>10/24 1:11 p.m.]]></description>
-				<styleUrl>#default_copy33</styleUrl>
+				<styleUrl>#default_copy49</styleUrl>
 				<Point>
 					<coordinates>-117.046753,32.95517,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center Full</name>
+				<visibility>0</visibility>
 				<description>San Diego High School evacuation center is full. 10/24 1:13 p.m.</description>
-				<styleUrl>#default_copy33</styleUrl>
+				<styleUrl>#default_copy49</styleUrl>
 				<Point>
 					<coordinates>-117.153679,32.720757,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center Full</name>
+				<visibility>0</visibility>
 				<description>Steele Canyon High School in Spring Valley is full. 10/24 1:14 p.m.</description>
-				<styleUrl>#default_copy33</styleUrl>
+				<styleUrl>#default_copy49</styleUrl>
 				<Point>
 					<coordinates>-116.924614,32.728031,0</coordinates>
 				</Point>
@@ -2334,8 +2414,10 @@
 		</Folder>
 		<Folder>
 			<name>Centers</name>
+			<visibility>0</visibility>
 			<Placemark>
 				<name>Evacuation center: Qualcomm Stadium</name>
+				<visibility>0</visibility>
 				<description><![CDATA[<p><span>
 			  Approximately 800 residents remain at Qualcomm stadium.</span></p></p><p><span>10/25, 9:06 a.m.<br></span></p></p><p>-----<br></p></p><p>A low estimate of 11,000 evacuees at Qualcomm stadium.<br>
 10/24, 11:15 a.m.</p></p><p></p></p>
@@ -2371,109 +2453,122 @@ at this point. People are unloading supplies, towels, bedding for fire victims.<
 10/22, 5:20 p.m.<br>
 <br>
 <a href="http://www.sdarc.org">http://www.sdarc.org</a></p></p><p></p></p>]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.120094,32.782513,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: San Marcos High School</name>
+				<visibility>0</visibility>
 				<description><![CDATA[This evacuation center is open to evacuees.<br><br>1615 W. San Marcos Blvd.<br>10/24 1:44 p.m.]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.209015,33.180664,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Poway Civic Center</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Poway Civic Center is open for evacuees  <br><br>13325 Civic Center Drive<br>10/23 9:00 p.m.]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.042503,32.954502,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Santana High School Evacuation Center</name>
+				<visibility>0</visibility>
 				<description>Santana High School is open for evacuees. 2:48 p.m. 10/22</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-116.970901,32.857403,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Valley Center High School Evacuation Center</name>
+				<visibility>0</visibility>
 				<description>Valley Center High School is open to evacuees. 2:51 p.m. 10/22</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.023621,33.280994,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Mission Hills Church</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Mission Hills Church is open for evacuees.<br><br>400 Mission Hills Ct., San Marcos<br>10/23 4:00 p.m.]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.144814,33.1479,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Chula Vista High School</name>
+				<visibility>0</visibility>
 				<description>10/22 - 2.50pm - Chula Vista residents complying with voluntary evacuations can take shelter at Chula Vista High School, 820 4th Avenue.</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.078896,32.620869,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Encinitas Community Center</name>
+				<visibility>0</visibility>
 				<description>Encinitas Senior and Community Center is open for evacuees. [ 1140 Oak Crest Park Drive ] -- 4:00 p.m. Oct 23</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.26738,33.043781,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Calvin Christian School</name>
+				<visibility>0</visibility>
 				<description>Calvin Christian School is open for evacuees-- 2:20 a.m. October 25, 2007. [ 1868 N. Broadway, Escondido, CA 92026 ]</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.091492,33.15251500000001,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: MiraCosta College</name>
+				<visibility>0</visibility>
 				<description>MiraCosta College is open for evacuees. 1:00 a.m. Oct. 24 [ 1 Barnard Drive, Oceanside, CA ]</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.301086,33.189606,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Carlsbad High School</name>
+				<visibility>0</visibility>
 				<description>Carlsbad High School is open for evacuees -- 12:51 a.m. Oct. 23 [ 3557 Monroe St, Carlsbad, CA 92008 ]</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.327461,33.16301,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Chula Vista Evacuation Center: Casa Familiar Civic &amp; Recreational Center</name>
+				<visibility>0</visibility>
 				<description>Chula Vista Evacuation site: Casa Familiar Civic &amp;amp; Recreational Center 10/23 11:44 a.m.</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.042847,32.606991,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Temecula Community Recreation Center</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Temecula Community Recreation Center is an evacuation center, suggested for  Fallbrook and De Luz residents.<br>10-23, 4:10 p.m.]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.13623,33.500179,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: The Rock Church</name>
+				<visibility>0</visibility>
 				<description><![CDATA[The Rock Church
 <br>2277 Rosecrans St. 
 <br>San Diego, CA 92106 
@@ -2481,168 +2576,188 @@ at this point. People are unloading supplies, towels, bedding for fire victims.<
 <br>
 <br>The Rock Church is open as a shelter for special needs evacuees and relief center to bring donations.
 <br>]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.219101,32.73518,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: New Song Church</name>
+				<visibility>0</visibility>
 				<description>New Song Church at 3985 Mission Ave is open for evacuees.(760) 560-5000 ext 119, (760) 805-1945. 10/23, 5:00 p.m.</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.325058,33.239262,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>SDSU Student, Faculty Evactuation Site</name>
+				<visibility>0</visibility>
 				<description>Peterson Gymnasium - located on the west site of campus on 55th Street - is now serving as a temporary shelter for students, faculty and staff and their families displaced by the fires. While this is not an official evacuation site, and the Red Cross services will not be available, SDSU is responding to the extraordinary circumstances and will do what&apos;s possible to assist those in need. A limited number of cots and sleeping bags are available.</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.077477,32.77396,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Borrego Springs High School</name>
+				<visibility>0</visibility>
 				<description>10/24 - 7:00 a.m. Anyone evacuating Julian can go to Borrego High School 2281 Diegueno Dr, Borrego Springs.</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-116.383644,33.264347,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Imperial Fairgrounds</name>
+				<visibility>0</visibility>
 				<description>10/23 - Imperial Fair Grounds is an evacuation center located at 200 2nd Street- Imperial Valley</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.129601,32.580685,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Shelter: Serra Mesa Christian Fellowship</name>
+				<visibility>0</visibility>
 				<description>Serra Mesa Christian Fellowship is open for evacuees. 4:00 p.m. Oct. 23 [ 2649 Murray Ridge Rd San Diego, CA 92123 ]</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.144577,32.79346100000001,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Shelter: Christian Church of Lemon Grove</name>
+				<visibility>0</visibility>
 				<description>Christian Church of Lemon Grove is open for evacuees. 4:00 p.m. Oct. 23 [ 6970 San Miguel Ave, Lemon Grove, CA 91945 ]</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.047913,32.735123,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Lighthouse Christian</name>
+				<visibility>0</visibility>
 				<description>Lighthouse Christian Church has shelter vacancies. [ 4700 Mesa Dr., Oceanside, CA 92056 ] (760) 726-0590.</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.291756,33.225048,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Walker Chapel</name>
+				<visibility>0</visibility>
 				<description>Walker Chapel, AME Church is located at 1415 Laurel St, Oceanside, CA 92054 and is providing shelter. (760) 757-6633.</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.374664,33.20666500000001,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Shelter: Generation Church</name>
+				<visibility>0</visibility>
 				<description>Generation Church is open for evacuees. 1:00 a.m. Oct. 24 [ 1106 Whaley St, Oceanside, CA 92054 ]</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.35849,33.179981,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Shelter: Calvary Chapel</name>
+				<visibility>0</visibility>
 				<description>Calvary Chapel Carlsbad is an open shelter. [ 6355 Corte Del Abeto, Carlsbad ] (760) 603-9777. 10/23, 4:00 p.m.</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.276222,33.118717,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation: Valley Center</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Reverse 911 calls are being made to 409 residents in Valley Center threatened by the Poomacha Fire 3 miles east of Lake Wohlford Road. <br>10/24, 7 a.m.]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.023621,33.223755,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Kroc Center</name>
+				<visibility>0</visibility>
 				<description><![CDATA[<span>
 			  The Kroc Center has opened its doors for evacuees.<br>6845 University Ave.<br>619-287-5762<br>10/24, 9:40 p.m.<br></span>]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.04834,32.765915,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Faith Chapel of Spring Valley</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Faith Chapel of Spring Valley is open for evacuees. Room for additional 200 people.<br>9400 Campo Rd<br>Spring Valley, CA  91977<br><br>619.461.7451<br>10/24 11:36 a.m.]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-116.994568,32.74987,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Chaparral High School<br>27215 Nicolas Rd, Temecula, CA]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.143051,33.538857,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Vista Murrieta High School<br>28251 Clinton Keith Rd, Murrieta, CA]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.167648,33.596661,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>MCAS Miramar Evacuation Center</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Marine Corps Air Station Miramar will open an evacuation site at 3 p.m. Wednesday, October 24 for active-duty members of the military, Department of Defense civilians and their families (bring your ID cards). <br><br>To get to the evacuation site go through the East Gate off I-15. From there you will be directed to the check-in center and evacuation site. <br><br>Department of Defense civilians and family members will be authorized to eat in the Mess Hall. MCAS Miramar is asking evacuees to bring their own food, water and blankets if possible. 10/24 2:40 p.m.<br><br> http://www.miramar.usmc.mil<br>]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.141769,32.885353,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: First Methodist Church</name>
+				<visibility>0</visibility>
 				<description>First Methodist Church open for evacuees. El Centro accepting Non-Perishables including towels, washcloths, combs, soap, etc.</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-115.561623,32.790504,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Center: Calvin Christian High School</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Citizens sheltered at Latter Day Saints Church have been transferred to the evacuation center at Calvin Christian High<br>School at 2000 N. Broadway.]]></description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.091942,33.155266,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Red Cross Evacuation Shelter</name>
+				<visibility>0</visibility>
 				<description>Red Cross shelter opened at Harris Rincon Pavilion at 777 Rincon Way, Valley Center, CA</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-116.955383,33.265892,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation Shelter: Mount Miguel High School</name>
+				<visibility>0</visibility>
 				<description>Red Cross Shelter opened for evacuees at Mount Miguel High School, 8595 Blossom Lane, Spring Valley.</description>
-				<styleUrl>#default_copy36</styleUrl>
+				<styleUrl>#default_copy56</styleUrl>
 				<Point>
 					<coordinates>-117.015785,32.724945,0</coordinates>
 				</Point>
@@ -2650,69 +2765,78 @@ at this point. People are unloading supplies, towels, bedding for fire victims.<
 		</Folder>
 		<Folder>
 			<name>Animal and RVs</name>
+			<visibility>0</visibility>
 			<Placemark>
 				<name>Large animal evacuation</name>
+				<visibility>0</visibility>
 				<description><![CDATA[<font face="Arial" size="2"><span>Residents
 with large animals are instructed to take them to the Lakeside Rodeo
 Grounds, located at Highway 67 and Mapleview Street, OR the San Diego
 County Fairgrounds in Del Mar. <br><a href="http://www.sdarc.org"><br>http://www.sdarc.org</a><br></span></font><span><br>12584 Mapleview St</span><br><span>Lakeside</span>, <span>CA</span> <span>92040</span><br>(619) 561-4331<a href="/maps?f=q&amp;hl=en&amp;geocode=&amp;time=&amp;date=&amp;ttype=&amp;q=Lakeside+Rodeo+Grounds&amp;sll=32.865746,-116.861572&amp;sspn=0.950468,1.842957&amp;ie=UTF8&amp;latlng=32863237,-116920479,6491191342258873155&amp;ei=W0gcR4WHL5v2iwPMg7z9CQ&amp;cd=1&amp;dtab=5"><br></a>]]></description>
-				<styleUrl>#default_copy51</styleUrl>
+				<styleUrl>#default_copy59</styleUrl>
 				<Point>
 					<coordinates>-116.920624,32.862862,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Fiesta Island Evacuation Center for Animals</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Fiesta Island has room for horses accompanied by their owners. No corrals are available at this time, but the San Diego County Department of Animal Services has made food and water available for the animals. <br><br>Owners wishing to utilize this safe location must be prepared to stay with their horses.<br><br>10/23 9:43 a.m.]]></description>
-				<styleUrl>#default_copy51</styleUrl>
+				<styleUrl>#default_copy59</styleUrl>
 				<Point>
 					<coordinates>-117.220428,32.778072,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Small Animals and RVs</name>
+				<visibility>0</visibility>
 				<description>10/22 - 7:20pm - The Home Depot parking lot at 298 Fletcher Parkway is open for small animals and RVs.</description>
-				<styleUrl>#default_copy51</styleUrl>
+				<styleUrl>#default_copy59</styleUrl>
 				<Point>
 					<coordinates>-116.956329,32.790737,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Large Animal Shelter</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Large Animal Shelter. San Diego County Animal Services has opened a shelter for large animals near Gillespie Field, 1960 Joe Crosson Dr. in El Cajon. Directions: Take East on Hwy 67; exit at Bradley Avenue and turn left; right on Cuyamaca; and left on Weld Blvd. The animal evacuation shelter will be on the right hand side of the road. <br><br>10/23 3:48 p.m.]]></description>
-				<styleUrl>#default_copy51</styleUrl>
+				<styleUrl>#default_copy59</styleUrl>
 				<Point>
 					<coordinates>-116.969032,32.822334,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Animal Shelter: Rohr Park</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Rohr Park in Chula Vista has plenty of room for horses. 4600 block of Sweetwater Road, near Winnetka Dr. call Dave Braithwaite 619-203-1640.<br>10/23, 5:05 p.m.]]></description>
-				<styleUrl>#default_copy51</styleUrl>
+				<styleUrl>#default_copy59</styleUrl>
 				<Point>
 					<coordinates>-117.034691,32.665607,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Evacuation: Large, Small Animals, RVs</name>
+				<visibility>0</visibility>
 				<description>The Imperial Valley Expo for displaced large and small animals, displaced truck drivers, and parking for RVs &amp;amp; hookups, NOT families. 10/24 10:25 a.m.</description>
-				<styleUrl>#default_copy51</styleUrl>
+				<styleUrl>#default_copy59</styleUrl>
 				<Point>
 					<coordinates>-115.568787,32.84161,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Chula Vista: Livestock Shelter</name>
+				<visibility>0</visibility>
 				<description>A livestock shelter established at the corner of Cuyamaca Street and Weld Boulevard in El Cajon requests donations to assist in its operation. They also need buckets and sleep supplies. 10/24 2:41 p.m.</description>
-				<styleUrl>#default_copy51</styleUrl>
+				<styleUrl>#default_copy59</styleUrl>
 				<Point>
 					<coordinates>-116.983749,32.827869,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Placemark 98</name>
+				<visibility>0</visibility>
 				<description><![CDATA[El Cajon Animal Shelter is accepting domestic animals and small livestock. <br>619-441-1580<br><br>1275 N. Marshall<br>10/24 2:51 p.m.]]></description>
-				<styleUrl>#default_copy51</styleUrl>
+				<styleUrl>#default_copy59</styleUrl>
 				<Point>
 					<coordinates>-116.975815,32.813122,0</coordinates>
 				</Point>
@@ -2721,11 +2845,14 @@ County Fairgrounds in Del Mar. <br><a href="http://www.sdarc.org"><br>http://www
 	</Folder>
 	<Folder>
 		<name>Road Closures</name>
+		<visibility>0</visibility>
 		<open>1</open>
 		<Folder>
 			<name>Openings</name>
+			<visibility>0</visibility>
 			<Placemark>
 				<name>Opened: Interstate 5 North</name>
+				<visibility>0</visibility>
 				<description>Interstate 5 is open from San Clemente to San Diego.  Conditions may change. 10/24 3:04 p.m.</description>
 				<styleUrl>#default_copy8</styleUrl>
 				<LineString>
@@ -2736,6 +2863,7 @@ County Fairgrounds in Del Mar. <br><a href="http://www.sdarc.org"><br>http://www
 			</Placemark>
 			<Placemark>
 				<name>Update/Closure: SR-76</name>
+				<visibility>0</visibility>
 				<description><![CDATA[SR-76 is no longer closed from Mission Road to Old Highway 395; and
 <br>
 <br>SR-76 is now closed from Pankey Road to SR-79 (the previous closure extended from Cole Grade Road to SR-79). 
@@ -2751,18 +2879,22 @@ County Fairgrounds in Del Mar. <br><a href="http://www.sdarc.org"><br>http://www
 		</Folder>
 		<Folder>
 			<name>Closures</name>
+			<visibility>0</visibility>
 			<Placemark>
 				<name>Closure: Interstate 8</name>
+				<visibility>0</visibility>
 				<description>Eastbound Interstate 8 is closed at Willows Road. Westbound closed at SR 79. All big rigs and high profile vehicles are being diverted.</description>
 				<styleUrl>#default_copy19</styleUrl>
 			</Placemark>
 			<Placemark>
 				<name>Highway Closure</name>
+				<visibility>0</visibility>
 				<description><![CDATA[I-15 remains closed from SR-56 to lower SR-79 in both directions.<br><br>10/22 5:20 p.m.]]></description>
 				<styleUrl>#default_copy19</styleUrl>
 			</Placemark>
 			<Placemark>
 				<name>SR-67 Closed</name>
+				<visibility>0</visibility>
 				<description><![CDATA[SR-67 CLOSED FROM SLAUGHTERHOUSE CANYON ROAD TO SR-78/SR-79<br>(from CDOT - 10/24 5:30PM)<br><br>Fire Related Freeway Closure Updates: http://tinyurl.com/frzj2]]></description>
 				<styleUrl>#default_copy19</styleUrl>
 				<LineString>
@@ -2773,6 +2905,7 @@ County Fairgrounds in Del Mar. <br><a href="http://www.sdarc.org"><br>http://www
 			</Placemark>
 			<Placemark>
 				<name>Road Closure</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Lyons Valley Road, Skyline Truck Trail -- 6:00 p.m. Oct. 23<br><br>Fire Related Freeway Closure Updates: http://tinyurl.com/frzj2]]></description>
 				<styleUrl>#default_copy19</styleUrl>
 				<LineString>
@@ -2783,6 +2916,7 @@ County Fairgrounds in Del Mar. <br><a href="http://www.sdarc.org"><br>http://www
 			</Placemark>
 			<Placemark>
 				<name>Road Closed</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Proctor Valley Road -- 6:00 p.m. Oct. 23<br><br>Fire Related Freeway Closure Updates: http://tinyurl.com/frzj2]]></description>
 				<styleUrl>#default_copy19</styleUrl>
 				<LineString>
@@ -2793,6 +2927,7 @@ County Fairgrounds in Del Mar. <br><a href="http://www.sdarc.org"><br>http://www
 			</Placemark>
 			<Placemark>
 				<name>Road Closed</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Honey Springs Road -- 6:00 p.m. Oct. 23<br><br>Fire Related Freeway Closure Updates: http://tinyurl.com/frzj2]]></description>
 				<styleUrl>#default_copy19</styleUrl>
 				<LineString>
@@ -2803,6 +2938,7 @@ County Fairgrounds in Del Mar. <br><a href="http://www.sdarc.org"><br>http://www
 			</Placemark>
 			<Placemark>
 				<name>Closure: Interstate 8</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Eastbound Interstate 8 is closed at Willows Road. Westbound closed at SR 79. All big rigs and high profile vehicles are being diverted. -- 2:00 a.m. Oct. 22<br><br>Fire Related Freeway Closure Updates: http://tinyurl.com/frzj2]]></description>
 				<styleUrl>#default_copy19</styleUrl>
 				<LineString>
@@ -2813,30 +2949,35 @@ County Fairgrounds in Del Mar. <br><a href="http://www.sdarc.org"><br>http://www
 			</Placemark>
 			<Placemark>
 				<name>SR-79 CLOSED</name>
+				<visibility>0</visibility>
 				<description><![CDATA[SR-79 CLOSED FROM SR-78 TO SR-76 
 <br>(from CDOT 10/24 5:30PM)]]></description>
 				<styleUrl>#default_copy19</styleUrl>
 			</Placemark>
 			<Placemark>
 				<name>SR-78 CLOSED</name>
+				<visibility>0</visibility>
 				<description><![CDATA[SR-78 CLOSED FROM SAN PASQUAL VALLEY RD TO SANTA YSABEL/SR-79
 <br>(from CDOT 10/24 5:30PM)]]></description>
 				<styleUrl>#default_copy19</styleUrl>
 			</Placemark>
 			<Placemark>
 				<name>SR-78 CLOSED</name>
+				<visibility>0</visibility>
 				<description><![CDATA[SR-78 CLOSED FROM SAN PASQUAL VALLEY RD TO SANTA YSABEL/SR-79
 <br>(from CDOT 10/24 5:30PM)]]></description>
 				<styleUrl>#default_copy19</styleUrl>
 			</Placemark>
 			<Placemark>
 				<name>SR-94 CLOSED</name>
+				<visibility>0</visibility>
 				<description><![CDATA[SR-94 CLOSED FROM STEELE CANYON TO FORREST GATE
 <br>(from CDOT 10/24 5:30pm)]]></description>
 				<styleUrl>#default_copy19</styleUrl>
 			</Placemark>
 			<Placemark>
 				<name>Metrolink Shut Down</name>
+				<visibility>0</visibility>
 				<description><![CDATA[Metrolink and Amtrak Surfliner train service is shut down between Oceanside and San Clemente, through Camp Pendleton.<br><br>Amtrak will operate all southbound Pacific Surfliner service trains from Los Angeles and make all regular stops beginning with train 578 (the 2:00 p.m. departure from Los Angeles) as far as San Juan Capistrano.  At this time, only Amtrak trains 784 and 792 (the 5:10 and 8:00 p.m. departures from Los Angeles) remain to depart Los Angeles and then only as far as San Juan Capistrano.<br><br>At this time, Metrolink anticipates operating all regular Orange County Line trains tomorrow morning from Laguna Niguel/Mission Viejo station, not from Oceanside, unless fire conditions allow otherwise.  It is also anticipated that Inland Empire - Orange County Line trains will only operate as far as Laguna Niguel/Mission Viejo tomorrow morning.]]></description>
 				<styleUrl>#default_copy19</styleUrl>
 				<Point>
@@ -2847,6 +2988,7 @@ County Fairgrounds in Del Mar. <br><a href="http://www.sdarc.org"><br>http://www
 	</Folder>
 	<Placemark>
 		<name>Fire Map Legend</name>
+		<visibility>0</visibility>
 		<description><![CDATA[<img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/burn-area.gif" alt="red shaded area" align="absmiddle" height="32" width="32"> <font size="1">Estimated burn areas and fire perimeters</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/evacuation-area.gif" alt="yellow shaded area" align="absmiddle" height="32" width="32"> <font size="1">Estimated evacuation areas</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/fire.gif" alt="red fire icon" align="absmiddle" height="32" width="32"><font size="1"> Fire updates / incidents</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter.gif" alt="red cross icon" align="absmiddle" height="32" width="32"> <font size="1">Evacuation Shelter </font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/shelter-closed.png" alt="black cross icon" align="absmiddle"> <font size="1">Evacuation Shelter closed or at capacity</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/evacuation-notice.gif" alt="red exclamation mark" align="absmiddle"> <font size="1">New evacuation notices</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/line-road.gif" alt="blue line" align="absmiddle"><font size="1">&nbsp; Road closure</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/safe-return.gif" alt="green house" align="absmiddle"><font size="1"> Evacuation notice lifted, safe to return</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/contained-fire.gif" alt="green fire icon" align="absmiddle"><font size="1"> Fire 100% contained</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/livestock-shelter.gif" alt="horse icon" align="absmiddle"><font size="1"> Livestock / animal shelter</font><br><img src="http://www.kpbs.org/media/assets/LOCAL-PUBLIC-AFFAIRS/All-Graphics/smoke.png" alt="smoke" align="absmiddle"><font size="1"> Smoke advisory</font>]]></description>
 		<styleUrl>#style79</styleUrl>
 		<Point>
