@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+  <name>San Diego County Fires - KPBS Online</name>
+  <description><![CDATA[Fire perimeters are based on forest service data. Time stamps are now provided on information. Older data is included as a history of fire-related activities. KPBS is now working directly with Google and SDSU to upgrade and update this map. 
+
+Live updates via Twitter: www.twitter.com/kpbsnews
+http://www.kpbs.org]]></description>
+  <NetworkLink>
+    <Url>
+      <name>San Diego County Fires - KPBS Online</name>
+      <href>http://maps.google.com/maps/ms?f=q&amp;hl=en&amp;geocode=&amp;time=&amp;date=&amp;ttype=&amp;ie=UTF8&amp;msa=0&amp;msid=114250687465160386813.00043d08ac31fe3357571&amp;output=kml</href>
+    </Url>
+  </NetworkLink>
+</Document>
+</kml>
