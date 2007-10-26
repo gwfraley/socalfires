@@ -36,11 +36,10 @@
 		<open>1</open>
 		<Style>
 			<ListStyle>
-				<listItemType>checkHideChildren</listItemType>
+				<listItemType>check</listItemType>
 				<bgColor>00ffffff</bgColor>
 				<ItemIcon>
 				  <state>closed</state>
-				  <href></href>
 				</ItemIcon>
 			</ListStyle>
 		</Style>
