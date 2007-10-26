@@ -1,5 +1,6 @@
 <kml>
 <Folder>
+  <name>some folder</name>
   <visibility>1</visibility>
   <Placemark>
     <name>My name</name>
