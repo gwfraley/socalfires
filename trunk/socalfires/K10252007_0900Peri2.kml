@@ -118,8 +118,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Harris</name>
-			<description><![CDATA[<BR><BR><B>FID_102520</B> = 0<BR><B>FID_102420</B> = 0<BR><B>Id</B> = 0<BR><B>Acres</B> = 8.40934231778e+004<BR><B>Name</B> = Harris<BR><B>FID_102320</B> = 0<BR><B>TYPE</B> = <BR><B>IDENT</B> = <BR><B>LAT</B> = 0.00000000<BR><B>LONG</B> = 0.00000000<BR><B>Y_PROJ</B> = 0.00000000<BR><B>X_PROJ</B> = 0.00000000<BR><B>NEW_SEG</B> = <BR><B>DISPLAY</B> = <BR><B>COLOR</B> = <BR><B>TIME</B> = <BR><B>MODEL</B> = <BR><B>FILENAME</B> = <BR><B>Acreage</B> = 0.00<BR><B>New_area</B> = 0.00]]></description>
-			<Snippet/>
+
 			<styleUrl>#area1_copy9</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
