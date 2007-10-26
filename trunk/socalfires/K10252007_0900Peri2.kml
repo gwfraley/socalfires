@@ -117,8 +117,6 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Harris</name>
-
 			<styleUrl>#area1_copy9</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
