@@ -38,7 +38,10 @@
 			<ListStyle>
 				<listItemType>checkHideChildren</listItemType>
 				<bgColor>00ffffff</bgColor>
-				<ItemIcon><state>closed</state></ItemIcon>
+				<ItemIcon>
+				  <state>closed</state>
+				  <href></href>
+				</ItemIcon>
 			</ListStyle>
 		</Style>
 		<Placemark>
