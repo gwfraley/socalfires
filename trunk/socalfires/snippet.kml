@@ -1,5 +1,6 @@
 <kml>
 <Folder>
+  <visibility>1</visibility>
   <Placemark>
     <name>My name</name>
     <description>My description for the balloon</description>
