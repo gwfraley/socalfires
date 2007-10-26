@@ -1,9 +1,9 @@
 <kml>
 <Folder>
   <name>some folder</name>
-  <visibility>1</visibility>
+  <visibility>0</visibility>
   <Placemark>
-    <name>My name</name>
+    <name>My name is zero</name>
     <description>My description for the balloon</description>
     <Snippet/> <!-- Inhibit list view snippet -->
     <Point>
