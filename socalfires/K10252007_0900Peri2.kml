@@ -43,6 +43,7 @@
 		<Placemark>
 			<name>Descanso</name>
 			<description><![CDATA[<BR><BR><B>FID_102520</B> = 0<BR><B>FID_102420</B> = 0<BR><B>Id</B> = 0<BR><B>Acres</B> = 5.11872945621e+000<BR><B>Name</B> = Descanso<BR><B>FID_102320</B> = -1<BR><B>TYPE</B> = <BR><B>IDENT</B> = <BR><B>LAT</B> = 0.00000000<BR><B>LONG</B> = 0.00000000<BR><B>Y_PROJ</B> = 0.00000000<BR><B>X_PROJ</B> = 0.00000000<BR><B>NEW_SEG</B> = <BR><B>DISPLAY</B> = <BR><B>COLOR</B> = <BR><B>TIME</B> = <BR><B>MODEL</B> = <BR><B>FILENAME</B> = <BR><B>Acreage</B> = 0.00<BR><B>New_area</B> = 0.00]]></description>
+			<Snippet/>
 			<styleUrl>#area1_copy9</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -56,6 +57,7 @@
 		<Placemark>
 			<name>Coronado Hills</name>
 			<description><![CDATA[<BR><BR><B>FID_102520</B> = 1<BR><B>FID_102420</B> = 1<BR><B>Id</B> = 0<BR><B>Acres</B> = 5.87901330536e+001<BR><B>Name</B> = Coronado Hills<BR><B>FID_102320</B> = -1<BR><B>TYPE</B> = <BR><B>IDENT</B> = <BR><B>LAT</B> = 0.00000000<BR><B>LONG</B> = 0.00000000<BR><B>Y_PROJ</B> = 0.00000000<BR><B>X_PROJ</B> = 0.00000000<BR><B>NEW_SEG</B> = <BR><B>DISPLAY</B> = <BR><B>COLOR</B> = <BR><B>TIME</B> = <BR><B>MODEL</B> = <BR><B>FILENAME</B> = <BR><B>Acreage</B> = 0.00<BR><B>New_area</B> = 0.00]]></description>
+			<Snippet/>
 			<styleUrl>#area1_copy9</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -69,6 +71,7 @@
 		<Placemark>
 			<name>Horno</name>
 			<description><![CDATA[<BR><BR><B>FID_102520</B> = 3<BR><B>FID_102420</B> = 5<BR><B>Id</B> = 0<BR><B>Acres</B> = 9.10347009727e+003<BR><B>Name</B> = Horno<BR><B>FID_102320</B> = -1<BR><B>TYPE</B> = <BR><B>IDENT</B> = <BR><B>LAT</B> = 0.00000000<BR><B>LONG</B> = 0.00000000<BR><B>Y_PROJ</B> = 0.00000000<BR><B>X_PROJ</B> = 0.00000000<BR><B>NEW_SEG</B> = <BR><B>DISPLAY</B> = <BR><B>COLOR</B> = <BR><B>TIME</B> = <BR><B>MODEL</B> = <BR><B>FILENAME</B> = <BR><B>Acreage</B> = 0.00<BR><B>New_area</B> = 0.00]]></description>
+			<Snippet/>
 			<styleUrl>#area1_copy9</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -82,6 +85,7 @@
 		<Placemark>
 			<name>Rice</name>
 			<description><![CDATA[<BR><BR><B>FID_102520</B> = 5<BR><B>FID_102420</B> = 0<BR><B>Id</B> = 0<BR><B>Acres</B> = 1.01575443206e+004<BR><B>Name</B> = Rice<BR><B>FID_102320</B> = 0<BR><B>TYPE</B> = <BR><B>IDENT</B> = <BR><B>LAT</B> = 0.00000000<BR><B>LONG</B> = 0.00000000<BR><B>Y_PROJ</B> = 0.00000000<BR><B>X_PROJ</B> = 0.00000000<BR><B>NEW_SEG</B> = <BR><B>DISPLAY</B> = <BR><B>COLOR</B> = <BR><B>TIME</B> = <BR><B>MODEL</B> = <BR><B>FILENAME</B> = <BR><B>Acreage</B> = 0.00<BR><B>New_area</B> = 0.00]]></description>
+			<Snippet/>
 			<styleUrl>#area1_copy9</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -101,6 +105,7 @@
 		<Placemark>
 			<name>Witch</name>
 			<description><![CDATA[<BR><BR><B>FID_102520</B> = 6<BR><B>FID_102420</B> = 0<BR><B>Id</B> = 0<BR><B>Acres</B> = 2.18976360854e+005<BR><B>Name</B> = Witch<BR><B>FID_102320</B> = 0<BR><B>TYPE</B> = <BR><B>IDENT</B> = <BR><B>LAT</B> = 0.00000000<BR><B>LONG</B> = 0.00000000<BR><B>Y_PROJ</B> = 0.00000000<BR><B>X_PROJ</B> = 0.00000000<BR><B>NEW_SEG</B> = <BR><B>DISPLAY</B> = <BR><B>COLOR</B> = <BR><B>TIME</B> = <BR><B>MODEL</B> = <BR><B>FILENAME</B> = <BR><B>Acreage</B> = 0.00<BR><B>New_area</B> = 0.00]]></description>
+			<Snippet/>
 			<styleUrl>#area1_copy9</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -114,6 +119,7 @@
 		<Placemark>
 			<name>Harris</name>
 			<description><![CDATA[<BR><BR><B>FID_102520</B> = 0<BR><B>FID_102420</B> = 0<BR><B>Id</B> = 0<BR><B>Acres</B> = 8.40934231778e+004<BR><B>Name</B> = Harris<BR><B>FID_102320</B> = 0<BR><B>TYPE</B> = <BR><B>IDENT</B> = <BR><B>LAT</B> = 0.00000000<BR><B>LONG</B> = 0.00000000<BR><B>Y_PROJ</B> = 0.00000000<BR><B>X_PROJ</B> = 0.00000000<BR><B>NEW_SEG</B> = <BR><B>DISPLAY</B> = <BR><B>COLOR</B> = <BR><B>TIME</B> = <BR><B>MODEL</B> = <BR><B>FILENAME</B> = <BR><B>Acreage</B> = 0.00<BR><B>New_area</B> = 0.00]]></description>
+			<Snippet/>
 			<styleUrl>#area1_copy9</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
