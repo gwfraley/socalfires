@@ -36,11 +36,9 @@
 		<open>1</open>
 		<Style>
 			<ListStyle>
-				<listItemType>check</listItemType>
+				<listItemType>checkHideChildren</listItemType>
 				<bgColor>00ffffff</bgColor>
-				<ItemIcon>
-				  <state>closed</state>
-				</ItemIcon>
+	
 			</ListStyle>
 		</Style>
 		<Placemark>
