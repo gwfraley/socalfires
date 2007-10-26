@@ -1,0 +1,20 @@
+<kml>
+<Folder>
+  <Placemark>
+    <name>My name</name>
+    <description>My description for the balloon</description>
+    <Snippet/> <!-- Inhibit list view snippet -->
+    <Point>
+      <coordinates>1,2</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>My name</name>
+    <description>My description for the balloon</description>
+    <Snippet>Snippet</Snippet>
+    <Point>
+      <coordinates>1,2</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+</kml>
