@@ -33,9 +33,16 @@
 	</Style>
 	<Folder>
 		<name>10/25/2007 0900hrs</name>
+		<visibility>0</visibility>
 		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<bgColor>00ffffff</bgColor>
+			</ListStyle>
+		</Style>
 		<Placemark>
-		  <description>Area Type</description>
+		  <styleUrl>#area1_copy9</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
