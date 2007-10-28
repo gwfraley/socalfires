@@ -2,53 +2,37 @@
 <Document>
 	<name>100727_1700.kmz</name>
 	<open>1</open>
-	<Style id="sn_palette-41">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal4/icon26.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle548_0_copy2">
-			<color>ff00aa00</color>
-			<width>2</width>
+	<Style id="area1_copy11">
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>3</width>
 		</LineStyle>
-		<PolyStyle id="khPolyStyle548_0_copy2">
-			<color>fff7c1f6</color>
-			<fill>0</fill>
+		<PolyStyle>
+			<color>7f0055ff</color>
 		</PolyStyle>
 	</Style>
-	<Style id="sn_palette-40">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal4/icon26.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle548_0_copy2">
-			<color>ffff0000</color>
-			<width>2</width>
+	<StyleMap id="area1_copy9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area1_copy10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area1_copy11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area1_copy10">
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>3</width>
 		</LineStyle>
-		<PolyStyle id="khPolyStyle548_0_copy2">
-			<color>fffccbc0</color>
-			<fill>0</fill>
+		<PolyStyle>
+			<color>7f0055ff</color>
 		</PolyStyle>
 	</Style>
-	<Style id="sn_palette-4">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal4/icon26.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle id="khLineStyle548_0_copy2">
-			<color>ff0000ff</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle id="khPolyStyle548_0_copy2">
-			<color>fff5c7bc</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
+
 	
-<Folder><name>100727_1630</name><open>1</open><Placemark><Polygon><outerBoundaryIs>
+<Folder><name>100727_1630</name><open>1</open><Placemark> <styleUrl>#area1_copy9</styleUrl><Polygon><outerBoundaryIs>
 						<LinearRing>
 							<coordinates>
 -116.627333414195,32.8421805732287,0 -116.629468500231,32.8431614989937,0 -116.627409011493,32.8403463205085,0 -116.627333414195,32.8421805732287,0 </coordinates>
