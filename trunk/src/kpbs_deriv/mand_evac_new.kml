@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
 	<name>100727_1700.kmz</name>
-	<open>1</open>
 	<Style id="area1_copy11">
 		<LineStyle>
 			<color>b200aaff</color>
@@ -37,9 +36,9 @@
 				<bgColor>00ffffff</bgColor>
 			</ListStyle>
 		</Style>
-	
-<Folder><name>100727_1630</name><open>1</open><Placemark>
-<styleUrl>#area1_copy9</styleUrl>
+		<Placemark>
+		
+			<styleUrl>#area1_copy9</styleUrl>
 <Polygon><outerBoundaryIs>
 							<LinearRing>
 								<coordinates>
