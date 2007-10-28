@@ -6,6 +6,7 @@ import java.util.List;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.transform.OutputKeys;
 import javax.xml.transform.Result;
 import javax.xml.transform.Source;
 import javax.xml.transform.Transformer;
@@ -35,6 +36,8 @@ public class KmlTransformer {
 	  // remove all folders, but first clone relevant first folder children
 	  List<Node> folders = getNodes(doc.getElementsByTagName("Folder"), false);
 	  List<Node> firstFolderChildren = cloneFolderChildren(folders);
+	  List<Node> placemarks = getNodes(doc.getElementsByTagName("Placemark"), false);
+	  List<Node> firstPlacemarkChildren = clonePlacemarkChildren(placemarks);
 	  for (Node folder : folders) {
 	    folder.getParentNode().removeChild(folder);
     }
@@ -48,6 +51,9 @@ public class KmlTransformer {
 	  }
 	  Element placemark = doc.createElement("Placemark");
 	  folder.appendChild(placemark);
+	  for (Node placemarkChild : firstPlacemarkChildren) {
+	    placemark.appendChild(placemarkChild);
+	  }
 	  Element polygon = doc.createElement("Polygon");
 	  for (Node node : boundaries) {
 	    polygon.appendChild(node);
@@ -56,6 +62,23 @@ public class KmlTransformer {
 	  
 	  writeDoc(doc);
 	}
+	
+  private List<Node> clonePlacemarkChildren(List<Node> placemarks) {
+    List<Node> nodes = new ArrayList<Node>();
+    Node styleUrl = null;
+
+    Node folder = placemarks.get(0);
+    List<Node> children = getNodes(folder .getChildNodes(), false);
+    for (Node child : children) {
+      if (styleUrl == null && child.getNodeName().equals("styleUrl")) {
+        styleUrl = child.cloneNode(true);
+      }
+    }
+    if (styleUrl != null){
+      nodes.add(styleUrl);
+    }
+    return nodes;
+  }
 
 	private List<Node> cloneFolderChildren(List<Node> folders) {
 	  List<Node> nodes = new ArrayList<Node>();
@@ -114,10 +137,12 @@ public class KmlTransformer {
     Result fileResult = new StreamResult(outFile);
 	  TransformerFactory factory = TransformerFactory.newInstance();
 	  Transformer transformer = factory.newTransformer();
+	  transformer.setOutputProperty(OutputKeys.METHOD, "xml");
+	  transformer.setOutputProperty(OutputKeys.INDENT, "yes");
+	  transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "2");
 	  transformer.transform(domSource, fileResult);
 	  System.out.println("Successfully wrote file: " + outFile.getAbsolutePath());
 	}
-	
 	
 	public static void main(String[] args) throws Exception {
 	  if (args.length != 1) {
