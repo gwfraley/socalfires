@@ -38,7 +38,9 @@
 			</ListStyle>
 		</Style>
 	
-<Folder><name>100727_1630</name><open>1</open><Placemark><styleUrl>#area1_copy9</styleUrl><Polygon><outerBoundaryIs>
+<Folder><name>100727_1630</name><open>1</open><Placemark>
+<styleUrl>#area1_copy9</styleUrl>
+<Polygon><outerBoundaryIs>
 							<LinearRing>
 								<coordinates>
 -116.975315776391,33.2818624500013,0 -116.975315917902,33.2817606753146,0 -116.975315475597,33.2817606751939,0 -116.975315776391,33.2818624500013,0 </coordinates>
