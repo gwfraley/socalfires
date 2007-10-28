@@ -30,7 +30,7 @@
     </PolyStyle>
   </Style>
   
-<Folder><name>10/25/2007 0900hrs</name><visibility>0</visibility><open>1</open><Placemark><name>10/25/2007 0900hrs</name><Polygon><outerBoundaryIs>
+<Folder><name>10/25/2007 0900hrs</name><visibility>0</visibility><open>0</open><Placemark><Polygon><outerBoundaryIs>
           <LinearRing>
             <coordinates>
 -116.6273334142,32.8421805724,0 -116.6294685002,32.8431614981,0 -116.6274090115,32.8403463196,0 -116.6273334142,32.8421805724,0 </coordinates>
