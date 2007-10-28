@@ -1,9 +1,0 @@
-<bindings xmlns="http://java.sun.com/xml/ns/jaxb"
-          xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-          version="2.0">
-  <bindings schemaLocation="http://code.google.com/apis/kml/schema/kml22beta.xsd" node="/xsd:schema">
-    <schemaBindings>
-      <package name="com.ram6.kml.binding" />
-    </schemaBindings>
-  </bindings>
-</bindings>
